@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace UI
@@ -22,13 +23,15 @@ namespace UI
             data = Data;
 
             SetLevelsSprites();
-            LevelButtonFunc();
+            ButtonFunc();
 
             Debug.Log("MenuUIManager initialized");
         }
 
-        private void LevelButtonFunc()
+        private void ButtonFunc()
         {
+            LevelsButtonsFunc();
+            
             if (exitGameButton != null)
             {
                 exitGameButton.onClick.RemoveAllListeners();
@@ -63,6 +66,36 @@ namespace UI
                         levelsImages[i].sprite = closeLevelSprite;
                     }
                 }
+            }
+        }
+
+        private void LevelsButtonsFunc()
+        {
+            if (levelsButtons[0] != null)
+            {
+                levelsButtons[0].onClick.RemoveAllListeners();
+                levelsButtons[0].onClick.AddListener(() =>
+                {
+                    SceneManager.LoadScene(1);
+                });
+            }
+
+            if (levelsButtons[1] != null)
+            {
+                levelsButtons[1].onClick.RemoveAllListeners();
+                levelsButtons[1].onClick.AddListener(() =>
+                {
+                    SceneManager.LoadScene(2);
+                });
+            }
+
+            if (levelsButtons[2] != null)
+            {
+                levelsButtons[2].onClick.RemoveAllListeners();
+                levelsButtons[2].onClick.AddListener(() =>
+                {
+                    SceneManager.LoadScene(3);
+                });
             }
         }
     }
