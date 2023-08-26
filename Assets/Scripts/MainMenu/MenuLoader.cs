@@ -21,7 +21,7 @@ namespace Loader
             menuUIManager.Initialize(data);
             parentalControlUIManager.Initialize(data, menuUIManager);
             settingsUIManager.Initialize();
-            fullGameButton.Initialize();
+            fullGameButton.Initialize(data);
         }
     }
 }

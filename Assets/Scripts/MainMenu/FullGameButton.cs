@@ -4,10 +4,13 @@ using System.Collections;
 public class FullGameButton : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
+    private Data.StartData data;
 
-    public void Initialize()
+    public void Initialize(Data.StartData Data)
     {
-        if (this.gameObject.active)
+        data = Data;
+        
+        if (!data._fullGame)
         {
             StartCoroutine(AnimationCO());
         }

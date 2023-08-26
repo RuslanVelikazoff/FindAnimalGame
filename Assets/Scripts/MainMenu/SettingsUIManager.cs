@@ -15,7 +15,7 @@ namespace UI
         [SerializeField] private Slider musicVolumeSlider;
         [SerializeField] private Slider soundVolumeSlider;
         [SerializeField] private Slider environmentVolumeSlider;
-
+        
         public void Initialize()
         {
             SettingsButtonFunc();
