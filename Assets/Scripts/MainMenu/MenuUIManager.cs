@@ -30,7 +30,7 @@ namespace UI
 
         private void ButtonFunc()
         {
-            LevelsButtonsFunc();
+            LevelsButtonsFunc();                                      
             
             if (exitGameButton != null)
             {
@@ -95,6 +95,118 @@ namespace UI
                 levelsButtons[2].onClick.AddListener(() =>
                 {
                     SceneManager.LoadScene(3);
+                });
+            }
+
+            if (levelsButtons[3] != null)
+            {
+                levelsButtons[3].onClick.RemoveAllListeners();
+                levelsButtons[3].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(4);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[4] != null)
+            {
+                levelsButtons[4].onClick.RemoveAllListeners();
+                levelsButtons[4].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(5);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[5] != null)
+            {
+                levelsButtons[5].onClick.RemoveAllListeners();
+                levelsButtons[5].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(6);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[6] != null)
+            {
+                levelsButtons[6].onClick.RemoveAllListeners();
+                levelsButtons[6].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(7);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[7] != null)
+            {
+                levelsButtons[7].onClick.RemoveAllListeners();
+                levelsButtons[7].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(8);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[8] != null)
+            {
+                levelsButtons[8].onClick.RemoveAllListeners();
+                levelsButtons[8].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(9);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
+                });
+            }
+            
+            if (levelsButtons[9] != null)
+            {
+                levelsButtons[9].onClick.RemoveAllListeners();
+                levelsButtons[9].onClick.AddListener(() =>
+                {
+                    if (data._fullGame)
+                    {
+                        SceneManager.LoadScene(10);
+                    }
+                    else
+                    {
+                        Debug.Log("Buy full game!");
+                    }
                 });
             }
         }

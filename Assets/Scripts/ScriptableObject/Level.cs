@@ -5,4 +5,7 @@ public class Level : ScriptableObject
 {
     [Header("Названия животных")] 
     public string[] animalName = new string[3];
+
+    [Header("Длительность анимаций")]
+    public float[] durationsAnimations = new float[3];
 }

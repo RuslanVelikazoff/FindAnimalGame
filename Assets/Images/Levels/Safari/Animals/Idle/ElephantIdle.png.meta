@@ -1,0 +1,2753 @@
+fileFormatVersion: 2
+guid: 10adaf448377c3d43985c8779f3e6fdb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElephantIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbe0d014c527646bf04ec13733f212
+      internalID: -63412367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbf6b870a9f574db37e54cf93c5565
+      internalID: -591974266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4e5dd7197a174e9724dc95decb9f6
+      internalID: 1119950913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20588fd5198a6459032767e5139edf
+      internalID: 1391112730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275aa11d3913424cbdd619bd85e2e16
+      internalID: -434823819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_5
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2bc6ceca6b5f47983908fa2cd1a5d
+      internalID: -56230860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_6
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e27d40b3da1e4449211b61efca5672
+      internalID: 1691651413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_7
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a550f1b13bff645a4f24e4e39fb3f2
+      internalID: -1684692568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_119
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9126
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c723a7a975a0ac4a8ca0e76476712b1
+      internalID: 96735266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3145d87533884d88f3a39e168279b
+      internalID: 678510125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9be01a3287dc04a87b23ac9ed6b53d
+      internalID: 1887814733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91fdc270adfd74ab7373f1c2efb902
+      internalID: 2110513525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b0a171352326409b22070dfb9ae23
+      internalID: -353215630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418c81396a31dc40bef557346d0c212
+      internalID: -863009388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_14
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb612aec17d21408ab2a35800f4fab
+      internalID: 1933890509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_15
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce96fdf0a326fdc47b447b04dedacf16
+      internalID: -471276536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_16
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4264aca2e44b49b116ee9a969d12a
+      internalID: -683055537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_120
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 8424
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf88b53ead57eb44876a496eb0082b9
+      internalID: -589514874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9eb2929c7831548893eb94b75e9089
+      internalID: -1131630888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538aeb186e4553458b3cb73169aef5d
+      internalID: -1236057166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51425132204baf74d9e20f3a7a8a4e5d
+      internalID: -243374651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb7fb6449994c4ca642d481dddfd0c
+      internalID: 269079809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820689f5333fce54aa6299db7f3325e7
+      internalID: 1631393702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_23
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c3cbf081267c4b969ce33932b8b7e
+      internalID: -928793418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_24
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea940544f7eb147a6d31183aa49c54
+      internalID: -515725296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_25
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffae4a80ae2a3949bcd5852f78a971b
+      internalID: 1845650913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_121
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7722
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6dd3f89f8c53949ae4c4a495a8ca98
+      internalID: 591046099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d16320bad388a419324a8d5154cad6
+      internalID: 81977578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483d9fedc83e274289651845e2cd529
+      internalID: 330226653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c32282ad097ba4099acd38ab5d2284
+      internalID: 1842617435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_30
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608704c613e39bd4b9c090b6ed766c36
+      internalID: 1998333846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_31
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214716c39b771748a1694164cc25d8f
+      internalID: -1316820843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_32
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a251e8bddd326640ad00345e3c5b5cf
+      internalID: -408742200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_33
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355d7b34f662ec45925260d2f255e8a
+      internalID: -1843708776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_34
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8099d5f819ccb154681821d72e1e83f0
+      internalID: 1265225509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_122
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7020
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b34c53545579643b27dc300918cc39
+      internalID: 1790070926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3df14c7b3457c4cac08d4eacd17d46
+      internalID: 626976502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d31be0da826443a90c8414168d76b
+      internalID: 312122793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a723abb2078f94e9f2e3fcdfcddfa0
+      internalID: 700478597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_39
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde4ec5da40c3f41bda8f9ec2e27a69
+      internalID: 367582257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_40
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773bb2d765595641bb056fc17877eb3
+      internalID: -161016418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_41
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3810a2fcc5ad6a4891adedd3bcc6bde
+      internalID: 1067134448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_42
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae97ae1c27b964daa891bf03a5c405
+      internalID: -1943309420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_43
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f07c2ac75cd6438f183fb7636b392
+      internalID: 2046514842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_123
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6318
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd488d8da17a0448918a00f9a72d3aa
+      internalID: 1430432717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552328e0eb326941a3d70a6555b3c7d
+      internalID: -1217932331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1af8d6e44839240823fd235c827b92
+      internalID: -959328036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14bef90a2ebbb40983de4fbf92eea9
+      internalID: 1438736958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab586378c465042b32b676c393ce1f
+      internalID: -1559383354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_49
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ab5b85452d124d93324553fd8b06f
+      internalID: 671432481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_50
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59531f8fe211440a9896abace9e357
+      internalID: -1180156368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_51
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c48d39197a634d8f0766a38f36de2
+      internalID: -1465009771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_52
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b31aec5bfa1849ae12aa3557d2621
+      internalID: 1304697361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_124
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 5616
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db407474359b804a902c9fd0eff6162
+      internalID: -1963141482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b91428cb31e94ab843d59b61e36b9
+      internalID: 755675473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2755674faf7b2428a32d4cfa92922c
+      internalID: 1412205281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96288032a6c06bf48bbda219e796234c
+      internalID: -125052943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e68618adca1245938fb3a1151db48
+      internalID: -254049050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657e6e33d51523409d3cdb15d8f62ac
+      internalID: 402062810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_59
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5496127d7cab4d9119ba44db887d4
+      internalID: 542756586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_60
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c217726c612b548439f980f70dba2717
+      internalID: -1961556307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_61
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e38b0609aa174b805b58bf83be04a
+      internalID: -2016993740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_125
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4914
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215335c09de47bd488f12668c4ec6aa8
+      internalID: -1591723297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f66f061bce99249bfd7ea123aa4602
+      internalID: -1031504014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bbcd227f395b44eb5a2c820154e71c
+      internalID: -385878836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b99b84be33b7614b8472fa83a3b0f0a
+      internalID: 1750464935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_66
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbee58fad997204baeeea6b26b9ba01
+      internalID: -539158458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_67
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc20269ddaadd44899536da351dc57
+      internalID: -311039513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_68
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276238f848a1c64a8889458a0faa85b
+      internalID: -2049447305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_69
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a76ab31777ef4eabc1f1058c73b22
+      internalID: -366664955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_70
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4212
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1dda388fcb83d46807118d2f22fecd
+      internalID: 1584863992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7329055ce0116448451e61c62deac0
+      internalID: 2083070339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_72
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e32aee240aadf429ed9aed8e3bfcff
+      internalID: 1299740022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_73
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff598f93e1000864c8b2609c016fd73d
+      internalID: 66486865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_74
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7d6cd6972f9045b8fe5a796e7271a
+      internalID: 1598214866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_75
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff097bb8ede5a0c4b8279c63b79d02f0
+      internalID: -818739551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_76
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a3e69082005a4f9fe8d9b320d2051
+      internalID: 691297954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_77
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f3674b21e5d648b94e87228fa007d
+      internalID: -1144534448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_78
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3510
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb35280e11553e4286bd4830f2381c1
+      internalID: 160674826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8323ebe955967f4f855b6c0b6d9f504
+      internalID: -1806988195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_80
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ede74c4f18da4f919117fd492c7f0
+      internalID: 1159468963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_81
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b25cc835a9b6346a615eb108f74baa
+      internalID: -657256965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_82
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda274de978208d499acfb9deaa53428
+      internalID: 595809420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_83
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839e685889f8c64d92247541d719af3
+      internalID: 1288626271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_84
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9a6242ce247b4691987703d011d37
+      internalID: 337555429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_85
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd96c3df7b45b24294d7311492dc52b
+      internalID: 349382204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_86
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2808
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919e5185530b794abd7205b02721002
+      internalID: -1869356429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1fd3bfbaae7348a6401db1104310e
+      internalID: 1645416506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_88
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f91ee8f9135744a98a3aefffe82bd8
+      internalID: 1905593523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_89
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321889ed9f4f1dc48aad5c0ba8e876b4
+      internalID: 1340688956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_90
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d06d1792136394da1c8674dd7f70fd
+      internalID: -1511422834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_91
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655b27b6badd0e49ab535524b985811
+      internalID: 1580002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_92
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c3e192b199db4db505157198745ce
+      internalID: 120478902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_93
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3700062eefeeb94686ef38fe37b8efe
+      internalID: -1035612440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_94
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2106
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2138eead22ea3748bf511b073d4eb13
+      internalID: -14631928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80844f100c94b5f4da286c1a30308f63
+      internalID: -522383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_96
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e1711e196b924fb5979a6aac94192
+      internalID: 1098455609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_97
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe9d977d455274286e339c7f1ef8e1
+      internalID: 774786022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_98
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adb8659f71ecbc4d81ed5036b611444
+      internalID: -139883482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_99
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612d095a98a45e4f96f2543aa53c7c1
+      internalID: 148569020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_100
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e0bd8175daf454a9ed74b19962dbeb
+      internalID: 1691912540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_101
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046d030c7e76174191dc9e4ef4f326c
+      internalID: 2104544457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_102
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1404
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7ac10b0d14d94ba9490c215c5f9de
+      internalID: -113953088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd266b875e8e04439db8fdb9bfbf161
+      internalID: 486970094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_104
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560614a43a63364a83ad1a975809f1a
+      internalID: 851684662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_105
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd188fd8471e4458a8f343de635a52
+      internalID: -365506963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_106
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ab3407aa61c64da7fbfdacef4e2ce
+      internalID: -1536248743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_107
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12beb0070a1c467469aac27b7b24c2af
+      internalID: 761557508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_108
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83142c007b87f346a7a7c63c8e3e430
+      internalID: -428846352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_109
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b12a882c581143af92771a53b66f6
+      internalID: 2065771842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_110
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 702
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd78dac8fbce345bf63455bc4fa4c9
+      internalID: -1738436984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bead6c0b7ca7479d146d222f7deed
+      internalID: -1110942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_112
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afbf72edd7e9b46ad4a5667f9911e1
+      internalID: -2056155512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_113
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbeee7541647ba40a2e11338e9ec15c
+      internalID: 992659685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_114
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248e155cd5dd9244a4464e2eb974f80
+      internalID: 1672922723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_115
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afde12e9f6f89a49922b256cb8b19a6
+      internalID: 1928764204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_116
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7d18c599364c429caa3a7373cc6d9
+      internalID: -1425761613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_117
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963732b5eb64a004396e3b365665cda2
+      internalID: 1642115113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElephantIdle_118
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 1202
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4c0514daab2b41b563c80a4c70d58
+      internalID: 1075446820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElephantIdle_0: -63412367
+      ElephantIdle_1: -591974266
+      ElephantIdle_10: 1887814733
+      ElephantIdle_100: 1691912540
+      ElephantIdle_101: 2104544457
+      ElephantIdle_102: -113953088
+      ElephantIdle_103: 486970094
+      ElephantIdle_104: 851684662
+      ElephantIdle_105: -365506963
+      ElephantIdle_106: -1536248743
+      ElephantIdle_107: 761557508
+      ElephantIdle_108: -428846352
+      ElephantIdle_109: 2065771842
+      ElephantIdle_11: 2110513525
+      ElephantIdle_110: -1738436984
+      ElephantIdle_111: -1110942962
+      ElephantIdle_112: -2056155512
+      ElephantIdle_113: 992659685
+      ElephantIdle_114: 1672922723
+      ElephantIdle_115: 1928764204
+      ElephantIdle_116: -1425761613
+      ElephantIdle_117: 1642115113
+      ElephantIdle_118: 1075446820
+      ElephantIdle_119: 96735266
+      ElephantIdle_12: -353215630
+      ElephantIdle_120: -589514874
+      ElephantIdle_121: 591046099
+      ElephantIdle_122: 1790070926
+      ElephantIdle_123: 1430432717
+      ElephantIdle_124: -1963141482
+      ElephantIdle_125: -1591723297
+      ElephantIdle_13: -863009388
+      ElephantIdle_14: 1933890509
+      ElephantIdle_15: -471276536
+      ElephantIdle_16: -683055537
+      ElephantIdle_18: -1131630888
+      ElephantIdle_19: -1236057166
+      ElephantIdle_2: 1119950913
+      ElephantIdle_20: -243374651
+      ElephantIdle_21: 269079809
+      ElephantIdle_22: 1631393702
+      ElephantIdle_23: -928793418
+      ElephantIdle_24: -515725296
+      ElephantIdle_25: 1845650913
+      ElephantIdle_27: 81977578
+      ElephantIdle_28: 330226653
+      ElephantIdle_29: 1842617435
+      ElephantIdle_3: 1391112730
+      ElephantIdle_30: 1998333846
+      ElephantIdle_31: -1316820843
+      ElephantIdle_32: -408742200
+      ElephantIdle_33: -1843708776
+      ElephantIdle_34: 1265225509
+      ElephantIdle_36: 626976502
+      ElephantIdle_37: 312122793
+      ElephantIdle_38: 700478597
+      ElephantIdle_39: 367582257
+      ElephantIdle_4: -434823819
+      ElephantIdle_40: -161016418
+      ElephantIdle_41: 1067134448
+      ElephantIdle_42: -1943309420
+      ElephantIdle_43: 2046514842
+      ElephantIdle_45: -1217932331
+      ElephantIdle_46: -959328036
+      ElephantIdle_47: 1438736958
+      ElephantIdle_48: -1559383354
+      ElephantIdle_49: 671432481
+      ElephantIdle_5: -56230860
+      ElephantIdle_50: -1180156368
+      ElephantIdle_51: -1465009771
+      ElephantIdle_52: 1304697361
+      ElephantIdle_54: 755675473
+      ElephantIdle_55: 1412205281
+      ElephantIdle_56: -125052943
+      ElephantIdle_57: -254049050
+      ElephantIdle_58: 402062810
+      ElephantIdle_59: 542756586
+      ElephantIdle_6: 1691651413
+      ElephantIdle_60: -1961556307
+      ElephantIdle_61: -2016993740
+      ElephantIdle_63: -1031504014
+      ElephantIdle_64: -385878836
+      ElephantIdle_65: 1750464935
+      ElephantIdle_66: -539158458
+      ElephantIdle_67: -311039513
+      ElephantIdle_68: -2049447305
+      ElephantIdle_69: -366664955
+      ElephantIdle_7: -1684692568
+      ElephantIdle_70: 1584863992
+      ElephantIdle_71: 2083070339
+      ElephantIdle_72: 1299740022
+      ElephantIdle_73: 66486865
+      ElephantIdle_74: 1598214866
+      ElephantIdle_75: -818739551
+      ElephantIdle_76: 691297954
+      ElephantIdle_77: -1144534448
+      ElephantIdle_78: 160674826
+      ElephantIdle_79: -1806988195
+      ElephantIdle_80: 1159468963
+      ElephantIdle_81: -657256965
+      ElephantIdle_82: 595809420
+      ElephantIdle_83: 1288626271
+      ElephantIdle_84: 337555429
+      ElephantIdle_85: 349382204
+      ElephantIdle_86: -1869356429
+      ElephantIdle_87: 1645416506
+      ElephantIdle_88: 1905593523
+      ElephantIdle_89: 1340688956
+      ElephantIdle_9: 678510125
+      ElephantIdle_90: -1511422834
+      ElephantIdle_91: 1580002288
+      ElephantIdle_92: 120478902
+      ElephantIdle_93: -1035612440
+      ElephantIdle_94: -14631928
+      ElephantIdle_95: -522383518
+      ElephantIdle_96: 1098455609
+      ElephantIdle_97: 774786022
+      ElephantIdle_98: -139883482
+      ElephantIdle_99: 148569020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

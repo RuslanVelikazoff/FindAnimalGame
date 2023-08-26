@@ -27,8 +27,7 @@ namespace UI
         [SerializeField] private GameObject[] gameObjects;
         [SerializeField] private GameObject nextLevel;
 
-        [Space(7)] 
-        [Header("Дополнительные объекты")]
+        [Space(7)] [Header("Дополнительные объекты")]
         private LevelManager levelManager;
         
         public void Initialize(LevelManager LevelManager)
@@ -47,7 +46,7 @@ namespace UI
                 animalsButton[0].onClick.RemoveAllListeners();
                 animalsButton[0].onClick.AddListener(() =>
                 {
-                    levelManager.CheckAnimal(0, 5);
+                    levelManager.CheckAnimal(0);
                 });
             }
 
@@ -56,7 +55,7 @@ namespace UI
                 animalsButton[1].onClick.RemoveAllListeners();
                 animalsButton[1].onClick.AddListener(() =>
                 {
-                    levelManager.CheckAnimal(1, 5);
+                    levelManager.CheckAnimal(1);
                 });
             }
 
@@ -65,7 +64,7 @@ namespace UI
                 animalsButton[2].onClick.RemoveAllListeners();
                 animalsButton[2].onClick.AddListener(() =>
                 {
-                    levelManager.CheckAnimal(2, 5);
+                    levelManager.CheckAnimal(2);
                 });
             }
         }

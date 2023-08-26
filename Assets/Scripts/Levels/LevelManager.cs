@@ -41,20 +41,20 @@ public class LevelManager : MonoBehaviour
         }
     }
 
-    public void CheckAnimal(int exercise, float duration)
+    public void CheckAnimal(int exercise)
     {
-        StartCoroutine(CheckAnimalCO(exercise, duration));
+        StartCoroutine(CheckAnimalCO(exercise));
     }
     
-    public IEnumerator CheckAnimalCO(int exercise, float duration)
+    public IEnumerator CheckAnimalCO(int exercise)
     {
         if (exercise == exerciseIndex)
         {
             Debug.Log("Good");
             levelUiManager.ShowUI(false, nextLevelCount);
-            animalAnimations[exercise].StartAnimation(5f, world.levels[levelIndex].animalName[exerciseIndex]);
+            animalAnimations[exercise].StartAnimation(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
 
-            yield return new WaitForSeconds(duration);
+            yield return new WaitForSeconds(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
             
             SetExerciseText();
             nextLevelCount++;

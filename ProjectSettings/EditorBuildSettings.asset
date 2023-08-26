@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelForest.unity
     guid: 3daf5e424bb096c4fae1ea9d6a37e880
+  - enabled: 1
+    path: Assets/Scenes/LevelSafari.unity
+    guid: 48e1828418fbe16448d31e136216897d
+  - enabled: 1
+    path: Assets/Scenes/LevelHome.unity
+    guid: 248c8f016332c724fb52825aa96adb99
   m_configObjects: {}
