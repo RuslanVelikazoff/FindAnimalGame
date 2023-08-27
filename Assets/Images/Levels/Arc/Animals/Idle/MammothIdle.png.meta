@@ -1,0 +1,3457 @@
+fileFormatVersion: 2
+guid: 2cf5469e62695194a8d8da9c2c395c94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MammothIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4edcc81529234386188319039d26e
+      internalID: -2040123600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01788366aa185f5418af7fbd0c06672a
+      internalID: 1974865495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d321f0d212034eaf557f28e1fc2d4
+      internalID: -192064927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae74db9a3b4b04898421ba3b83b066
+      internalID: -99337409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400ead0a7ff24c4db0a8956a65d8878
+      internalID: -1984805813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_5
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac9fce8ab1fe241a40f3bd27e32dc6
+      internalID: 761169795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_6
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7b6ab5a562814a915125b994ede04
+      internalID: 1782557674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_7
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de205683a996b0448daa526942901ee
+      internalID: 1931239162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_151
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7ad1d81c49fa45a45bb158c9aee44
+      internalID: 160056347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7569e4eabdb8894aa8bbd5ed2966109
+      internalID: -138315074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7bbdad5b6b0d44e9507634ea0adeea
+      internalID: -982578701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb5ced3f33c9d419abe128404b8143
+      internalID: 1241477825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69c2059b9af7e44a1af6948df273c8
+      internalID: 1672100347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f6d0b3e1151024099822ea705f6c07
+      internalID: 1157754083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_14
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61aff44fbf936c4595ae6f7ac72b04f
+      internalID: 1410844800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_15
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc4a9aeaaf63f49a8a3a3af1e9fe17
+      internalID: 1845371047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_16
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6afe7ebc611fc442bbd0d76bea2dc83
+      internalID: -1045274657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_152
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf03cafc1a15564181a1301ae2059b1
+      internalID: -2011164246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6815f4f3a89da44a09169d62e015b1
+      internalID: 1434049456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686ed57498c30b4fa8de2e4fa234c73
+      internalID: 639142834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc20944a7e61814bbe6c470dae14302
+      internalID: -545707148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d06c509f4de8cf4db1438cd441fa911
+      internalID: 1272383140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856755e3ad81b449931df346de037cd
+      internalID: -1593076900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_23
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480158228c2e4e4caa75d7a87f9bd54
+      internalID: -1160900274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_24
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179befee781d7714abfa67553964024a
+      internalID: 2084383419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_25
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c5d4af06361340a0e82a62f91c6ef
+      internalID: -499770179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_153
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04869985ae1f26f4cb15034ddbbee497
+      internalID: 1420344635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20771bad9763ba249a6d23002d70b1c9
+      internalID: 193119620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7293beeaca5fc4b8965b537cdd16a3
+      internalID: 6973705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca8783a7a529941b30d105ec84eeab
+      internalID: 1134673086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_30
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ea1c86e07e2f34b87261329631ba77
+      internalID: 116122663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_31
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aae131ceb4042b43950cf4eb7a0f731
+      internalID: -872043333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_32
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99a26534353244f9f0759bbc426eb0
+      internalID: 634717028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_33
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1956483b848dc409ebd7e083984657
+      internalID: 1502711336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_34
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe84d91aeae46489c212e9bc1c9bce
+      internalID: -1926814456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_154
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a0b3e6a0e8eb4f9a94aa0a33ab870
+      internalID: 1094961683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690375f4259a4c04d9883e0c93fea670
+      internalID: -274888844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a04a097137e2c0429b4b914a6784799
+      internalID: -642419181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f77956af593e48b94d5f29880ba3e
+      internalID: -1283231736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_39
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21770075c72ed43aa758a86b0b81fc
+      internalID: 1001306707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_40
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8c2e021f8eae049bf1975216b60928
+      internalID: -1045345850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_41
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd990298e99a841afacd4e79842c1c
+      internalID: 1833598730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_42
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429df8ddf6825e94cac15b400908245d
+      internalID: 226420007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_43
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af558e8e379279f46823a210b8f4fbe2
+      internalID: -780617916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_155
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0b755e5e9af44b8fb731760956b00
+      internalID: -1026558145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a298562c655b4fafe863754b7cbbf
+      internalID: 690869088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bf6099da9c894db4e3ce62f51c5c2
+      internalID: -493189213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0aef1837292e4a8efc07e879823b1
+      internalID: 228670882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e669a7a161531e45bdbd2966a837116
+      internalID: 2098207227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_49
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d916dee66f717645bc51605b5f70f8a
+      internalID: -527476397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_50
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2a9fef7cb31f43830081b5df077b6
+      internalID: -488576066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_51
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3680a3d7b2e39145a9b1c84d5ea5975
+      internalID: -1954086705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_52
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac3f772aebfb44d96ce3980b38a6b9
+      internalID: 736217897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_156
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30331721bbd120489e60337efa64f0a
+      internalID: -1808510364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdd55c53fc7a243857ffd364b07fa5
+      internalID: -1907474863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7967ec54c18ac4aad4d7467147e0f6
+      internalID: -453686864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88671e554ae8954bb9f1d81057b0271
+      internalID: -544449205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d652ad846d89546af30199849f32a3
+      internalID: -517466420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487f4e6da372d34ebb996e23cfb9f81
+      internalID: -1961069301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_59
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300aeb66150833e4eb840aa45a813445
+      internalID: -2097842587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_60
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3508fd657f2044a18320915989da7
+      internalID: -2065521932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_61
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0162c3d69e3d45b70d4a2177345e5
+      internalID: -1477918145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_157
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05652576f2986314cb7552ebcf03527e
+      internalID: -1381717313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3c1b1c560fd840a4ac4e9dd8fd560
+      internalID: 1497148999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8177acb72fa6043b982e178f553c9d
+      internalID: 725658243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ceb7f51de74c640bdc1ff546beb0ed
+      internalID: -1554505735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_66
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da328d668bf4c4f43b87acc074053066
+      internalID: -107934991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_67
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b994091357553240bcbf3a36caca07d
+      internalID: -1191155352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_68
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab0490290fcfc43840441cc9250fd2
+      internalID: 2463389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_69
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0996b5b99bf72488f83395b0a82c35
+      internalID: 400259811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_70
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f284b4a5f266ae9439151d852e3e22fa
+      internalID: -494521375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_158
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbe2d6493cc8541babf64829051cf9
+      internalID: -1084464651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba88edc49dffe40b449e4bddf2e160
+      internalID: 790272331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd984beca10904db6f2c855afe0051
+      internalID: -668295171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_74
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040ce34c1ff4344bb7508258cb18afa
+      internalID: 1852183782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_75
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fa530920a982479d63c9a40ed2326
+      internalID: 946094189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_76
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a86a5f3d26efe47b45bf0c25aee12f
+      internalID: -297410402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_77
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecb349e638661c45ae36f7725f6a75c
+      internalID: -556351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_78
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d13bb1cc36ae429a237ed92a80c58
+      internalID: 1330848555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_79
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc1cb4a0eb08b45a18e0efe20f7130
+      internalID: -1935604433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_159
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312f7486455c664dbab728ad0113e80
+      internalID: 535912244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83a1364009b16429c92b344d3026bb
+      internalID: 2112656294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_82
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787f2bd5dc3d4b4ab2a9f5fabe1e1a3
+      internalID: 1550863386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_83
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d32284bfdc514aba12b2c77590523
+      internalID: -1991872340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_84
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592dab2a983003458e689d4221a7f3f
+      internalID: -878860707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_85
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262212d42b608f40925cd1000e58fdb
+      internalID: 2048583561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_86
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94889c6c73bb1984f8503fd27dabff46
+      internalID: 2125809094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_87
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb6b2302dcd744ca5fce0c8aff7aee
+      internalID: 1180931583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_88
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8fe414df9a0064ba3faf0a5965236f
+      internalID: -1288913357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_160
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a0df05a54f034fb5233f37f98b297
+      internalID: -805523373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80337bee80258094ca0cb6afcce8b779
+      internalID: 857693200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_91
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4d105462a62b44a0a75ed5972d473
+      internalID: 268621767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_92
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7329cb9c43568d4fa9f1b0f0737ca97
+      internalID: 1372487385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_93
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83285e63bbb723d41bf5811428afb11a
+      internalID: -1711594436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_94
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa07accb87ba143b64a0fbd54135ec
+      internalID: -1170855949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_95
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40378c8d3109d94cb9a8674138947e3
+      internalID: -1124779930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_96
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05fffe8e957c0448d54abb7a9c1cd5
+      internalID: -467171045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_97
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10bc61b6826714d886b7bd023425cb
+      internalID: 190442025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_161
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849db850d321f6a41818298945de3c41
+      internalID: 1165561348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a811b4242ea1c146a89782237eed9d3
+      internalID: 722645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_100
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013df34aa3d98f4a80660e4bafce56e
+      internalID: 1247221923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_101
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6043386e26e9d24ab548a7ae56fd529
+      internalID: -378661264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_102
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3df05e50d4dae43893c6df6dbc6ce9
+      internalID: -1909091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_103
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c501b04a664d4c045a43bd533b3dea5d
+      internalID: 1798208136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_104
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b5c8e7d1987f49aacb63c168a3dc7
+      internalID: -717815230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_105
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fae8147f4b5ea419fc884aae5432d7
+      internalID: 687395940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_106
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed937bc5a8ef0bb45b9261203ae98787
+      internalID: 1127708150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_162
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94052980aae74664d8423dba10da4c19
+      internalID: 1236023943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61df465c815d04a9bbc3a055106029
+      internalID: -398969969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_109
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea58c33ef021b45810dd56e2990cad
+      internalID: -1678032635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_110
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7bea44099ebae418c4e03e4ad833f1
+      internalID: -1960193190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_111
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f00f4cc44bce6e43b35cfc602a8438e
+      internalID: 1674295632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_112
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e038310730208499e5c27c30fa772a
+      internalID: 918088127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_113
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9d601f17710443a45bfc87621c16b
+      internalID: 1500965971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_114
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82486cea3300b93439ec19a90368b672
+      internalID: 1939069644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_115
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81dcac11f0a7dd4f92177f1cdf43be3
+      internalID: 1691639033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_163
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df3270ddd7c504f9e1ad49c2552337
+      internalID: -1151621194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c75550a6b3654280fe0de05fa2c68
+      internalID: -361676574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_118
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff0d43f7ed6e34a8bb749813351fff
+      internalID: 211154662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_119
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038cafd6d6c69e49abca64c26dcc5fd
+      internalID: -1096110244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_120
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7872326d6a96f924086818159b4d9cc3
+      internalID: 1303160636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_121
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d014a6cf1097b45b51b760382c36c0
+      internalID: -977595726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_122
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4259cc346572004d88b09470cd1c3f6
+      internalID: 392722577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_123
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10908fb6215fbab429ca9d8709f748d4
+      internalID: 952205597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_124
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e51fb565b0de842940eef9746ed5c1
+      internalID: 354783478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_164
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6641b5249dca324988f2cc155af43bb
+      internalID: 1046173541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b9ec312fd164499212e39cac5c3cd
+      internalID: -860285905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_127
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6e1a416526454597acfeaf1508238
+      internalID: 871609996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_128
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb043c195ed33ee45bfbb688ecda78ee
+      internalID: -1400024530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_129
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6921f16a35ae2478509e593df16ce6
+      internalID: -1145942533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_130
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d658b812a1b64b901cc61f6a3627c
+      internalID: -1312100281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_131
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118a636c1945fc4ebb3ed7878bb83d2
+      internalID: -1434707710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_132
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ab812e846a2643996b31865cbb8dd
+      internalID: -638155650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_133
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9320252f2b51488837172a75a16f9
+      internalID: -2026274736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_165
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe80b952ed45b4fa5e243f29ee726b
+      internalID: 1281693198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e49300814c4c9469effbbe4fb42992
+      internalID: 1804291295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_136
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca31b51e7eff7498f5d31a5aba923d
+      internalID: -1625425734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_137
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ff18b3a5a30943a7f8352f9875b85
+      internalID: -1723946543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_138
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1adb116f3c4e742875b6f2dba35499
+      internalID: 1226754317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_139
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f4d7103d7be42409b812c8c3e72ede
+      internalID: 867616166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_140
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3142957006b4f489cad3abc787daa9
+      internalID: 2017213039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_141
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b05f53bef569b4c9ca5568bb27652e
+      internalID: -742031593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_142
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8997760faafd9e4d888d5c9e1365969
+      internalID: -1711451177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2e7bf26c5de646aeec9d686d3b6b3
+      internalID: -1052539560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_144
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf12fd850dbfa4ea26446895fc7f26
+      internalID: -1749913037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_145
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca371f33d55c5742b84534578c21680
+      internalID: 1062690460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_146
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0669a75dd21b489b2b2f6bf4f629f
+      internalID: 1387812927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_147
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c25c7be889c54eb8cb851e7a32af0
+      internalID: 1393290447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_148
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01eae5b6c4da8440b0a5051716909f0
+      internalID: -1718560029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_149
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0242d4b07541c24e9b46823d2c5a3d7
+      internalID: -1234835854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothIdle_150
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad541dab76399438a4417365e8a0a6
+      internalID: -1693946373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MammothIdle_0: -2040123600
+      MammothIdle_1: 1974865495
+      MammothIdle_10: -982578701
+      MammothIdle_100: 1247221923
+      MammothIdle_101: -378661264
+      MammothIdle_102: -1909091600
+      MammothIdle_103: 1798208136
+      MammothIdle_104: -717815230
+      MammothIdle_105: 687395940
+      MammothIdle_106: 1127708150
+      MammothIdle_108: -398969969
+      MammothIdle_109: -1678032635
+      MammothIdle_11: 1241477825
+      MammothIdle_110: -1960193190
+      MammothIdle_111: 1674295632
+      MammothIdle_112: 918088127
+      MammothIdle_113: 1500965971
+      MammothIdle_114: 1939069644
+      MammothIdle_115: 1691639033
+      MammothIdle_117: -361676574
+      MammothIdle_118: 211154662
+      MammothIdle_119: -1096110244
+      MammothIdle_12: 1672100347
+      MammothIdle_120: 1303160636
+      MammothIdle_121: -977595726
+      MammothIdle_122: 392722577
+      MammothIdle_123: 952205597
+      MammothIdle_124: 354783478
+      MammothIdle_126: -860285905
+      MammothIdle_127: 871609996
+      MammothIdle_128: -1400024530
+      MammothIdle_129: -1145942533
+      MammothIdle_13: 1157754083
+      MammothIdle_130: -1312100281
+      MammothIdle_131: -1434707710
+      MammothIdle_132: -638155650
+      MammothIdle_133: -2026274736
+      MammothIdle_135: 1804291295
+      MammothIdle_136: -1625425734
+      MammothIdle_137: -1723946543
+      MammothIdle_138: 1226754317
+      MammothIdle_139: 867616166
+      MammothIdle_14: 1410844800
+      MammothIdle_140: 2017213039
+      MammothIdle_141: -742031593
+      MammothIdle_142: -1711451177
+      MammothIdle_143: -1052539560
+      MammothIdle_144: -1749913037
+      MammothIdle_145: 1062690460
+      MammothIdle_146: 1387812927
+      MammothIdle_147: 1393290447
+      MammothIdle_148: -1718560029
+      MammothIdle_149: -1234835854
+      MammothIdle_15: 1845371047
+      MammothIdle_150: -1693946373
+      MammothIdle_151: 160056347
+      MammothIdle_152: -2011164246
+      MammothIdle_153: 1420344635
+      MammothIdle_154: 1094961683
+      MammothIdle_155: -1026558145
+      MammothIdle_156: -1808510364
+      MammothIdle_157: -1381717313
+      MammothIdle_158: -1084464651
+      MammothIdle_159: 535912244
+      MammothIdle_16: -1045274657
+      MammothIdle_160: -805523373
+      MammothIdle_161: 1165561348
+      MammothIdle_162: 1236023943
+      MammothIdle_163: -1151621194
+      MammothIdle_164: 1046173541
+      MammothIdle_165: 1281693198
+      MammothIdle_18: 1434049456
+      MammothIdle_19: 639142834
+      MammothIdle_2: -192064927
+      MammothIdle_20: -545707148
+      MammothIdle_21: 1272383140
+      MammothIdle_22: -1593076900
+      MammothIdle_23: -1160900274
+      MammothIdle_24: 2084383419
+      MammothIdle_25: -499770179
+      MammothIdle_27: 193119620
+      MammothIdle_28: 6973705
+      MammothIdle_29: 1134673086
+      MammothIdle_3: -99337409
+      MammothIdle_30: 116122663
+      MammothIdle_31: -872043333
+      MammothIdle_32: 634717028
+      MammothIdle_33: 1502711336
+      MammothIdle_34: -1926814456
+      MammothIdle_36: -274888844
+      MammothIdle_37: -642419181
+      MammothIdle_38: -1283231736
+      MammothIdle_39: 1001306707
+      MammothIdle_4: -1984805813
+      MammothIdle_40: -1045345850
+      MammothIdle_41: 1833598730
+      MammothIdle_42: 226420007
+      MammothIdle_43: -780617916
+      MammothIdle_45: 690869088
+      MammothIdle_46: -493189213
+      MammothIdle_47: 228670882
+      MammothIdle_48: 2098207227
+      MammothIdle_49: -527476397
+      MammothIdle_5: 761169795
+      MammothIdle_50: -488576066
+      MammothIdle_51: -1954086705
+      MammothIdle_52: 736217897
+      MammothIdle_54: -1907474863
+      MammothIdle_55: -453686864
+      MammothIdle_56: -544449205
+      MammothIdle_57: -517466420
+      MammothIdle_58: -1961069301
+      MammothIdle_59: -2097842587
+      MammothIdle_6: 1782557674
+      MammothIdle_60: -2065521932
+      MammothIdle_61: -1477918145
+      MammothIdle_63: 1497148999
+      MammothIdle_64: 725658243
+      MammothIdle_65: -1554505735
+      MammothIdle_66: -107934991
+      MammothIdle_67: -1191155352
+      MammothIdle_68: 2463389
+      MammothIdle_69: 400259811
+      MammothIdle_7: 1931239162
+      MammothIdle_70: -494521375
+      MammothIdle_72: 790272331
+      MammothIdle_73: -668295171
+      MammothIdle_74: 1852183782
+      MammothIdle_75: 946094189
+      MammothIdle_76: -297410402
+      MammothIdle_77: -556351922
+      MammothIdle_78: 1330848555
+      MammothIdle_79: -1935604433
+      MammothIdle_81: 2112656294
+      MammothIdle_82: 1550863386
+      MammothIdle_83: -1991872340
+      MammothIdle_84: -878860707
+      MammothIdle_85: 2048583561
+      MammothIdle_86: 2125809094
+      MammothIdle_87: 1180931583
+      MammothIdle_88: -1288913357
+      MammothIdle_9: -138315074
+      MammothIdle_90: 857693200
+      MammothIdle_91: 268621767
+      MammothIdle_92: 1372487385
+      MammothIdle_93: -1711594436
+      MammothIdle_94: -1170855949
+      MammothIdle_95: -1124779930
+      MammothIdle_96: -467171045
+      MammothIdle_97: 190442025
+      MammothIdle_99: 722645607
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

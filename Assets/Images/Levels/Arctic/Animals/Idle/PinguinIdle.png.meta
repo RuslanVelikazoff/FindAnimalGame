@@ -1,0 +1,2115 @@
+fileFormatVersion: 2
+guid: f214b1ad758fb8047a1370b607110417
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 168
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinguinIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2274de5bce8f1144ace23d858f0aaaf
+      internalID: -1118336538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef364a5fb26a00743b9ebba02c5fdc9f
+      internalID: 1013842000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162b2287cb32ac4b95f89527253fd04
+      internalID: 947528648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3f9944c13a3445b5663c9f1d099d0
+      internalID: -1240184529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8786a291ee8867949b080e57cae172d9
+      internalID: -532760265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620b61e55b16c1d45aaf36a55e8c8364
+      internalID: -885209449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_6
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf910e2befba314e83cc7787abc86b9
+      internalID: -432656135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_7
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301b9649e3a718440ba845673cade038
+      internalID: -278121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_8
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b6ce075a7d6d47a3febc758dbe356
+      internalID: 1027157640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_89
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1196be63f9f04d9652dff73f0fe67
+      internalID: -1191494963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b27abce1da724f9b28ed40f58ef41
+      internalID: 1442179734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9577b4badb4bda41baf3350b5102f6c
+      internalID: 313951778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd4901854ec6348a5da25b4c94ca9b
+      internalID: -2030289745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe02d8c31d5ad42928d0027790bf32
+      internalID: -918563575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_14
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46654fdfeb421f145a1b6e4eecbc3e65
+      internalID: -781743083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_15
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f15a46ff54b4e4b8d8d85e542f244a
+      internalID: -664381077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_16
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba5ab4e92aaee843b4200d12cca55d2
+      internalID: 1139682576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_17
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806f7ccb32619e428ca1058fac2b0a2
+      internalID: -1530859869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_18
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cef1262c1b9e524689711206f410394
+      internalID: 1261069097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_90
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378fb0d00f4b3e46949fee39f31470c
+      internalID: -1788749457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185b7c3780de824299d929e1464accd
+      internalID: 976433958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba78fd2c094e0f4b8b96a0af7ae21f1
+      internalID: 2135671251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_22
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e206cb809d05b34e89daf4458c33158
+      internalID: 233952296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_23
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa217fc70aedb4ca956d979b360fa6
+      internalID: -1895542297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_24
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4025b3b47e924ca04db00054f77fb
+      internalID: 1532874607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_25
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc67788febc53b4d8602680463b115e
+      internalID: -303053621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_26
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751cd2f73701d104dbb561b73968616b
+      internalID: 1885436498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_27
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2a4ce71d0fa5c4984a23b3e4c11a51
+      internalID: 2143769282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_28
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba85551ce0a3143b7a9e7bd3d3c239
+      internalID: -1908991978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_91
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37573de548e5baa47a45badb2fa665ac
+      internalID: 2133895586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db2f87b7be7d434ab22e83b8630d42c
+      internalID: -1252814005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_31
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0240e2e54aeb18947a4baefaa3ca2051
+      internalID: -20190003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_32
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a52f0b59f49654c9d33a7adfb5cf8b
+      internalID: -2005492896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_33
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93e15e97648c54fbf141a0c1792388
+      internalID: 1612605473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_34
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548e15518bbf34428bd156126345be0
+      internalID: -2037339020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_35
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831613467869f3647957762babce81eb
+      internalID: 898523214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_36
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191907e12fb48254ebd008b1db2f26b1
+      internalID: -153637500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_37
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f540836358ea44b37b9ea802c6644
+      internalID: -773350749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_38
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3284a7508c6ee44584b0f715473583a
+      internalID: 1301274117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_92
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555865d96e650448a9e4a93dedc9a47
+      internalID: -750639365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ec9a7fa477eb41af8d269768737fd
+      internalID: -1031772811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_41
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc5e433f0eb934694ee650c13c7802
+      internalID: -1323695472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_42
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc727fc85f432264880f56e5ef6c0865
+      internalID: -685815680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_43
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbba2725259b343b043cf85a0f8515
+      internalID: 135836630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_44
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c340203260a2ffa449eb58b356f8ae1b
+      internalID: -1439982213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_45
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0ab2b42533be469cb81766bb5716a
+      internalID: -1024462973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_46
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab65c842feb71b41ae6407381edbac6
+      internalID: 1388795375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_47
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ecaedae9d94e4db0b59468cf3865d
+      internalID: 1417401240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_48
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036d4b527e407346b8a872c7cbfb074
+      internalID: -1981805340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_93
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea139d5bc43294ba8a469800e8bac8
+      internalID: 629295481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f8f26e67d68644adc996b2aaaee98
+      internalID: -528645596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_51
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63226841f6cb6b049a7046d0242b0112
+      internalID: 1749325670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_52
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f4e4a3839e454f9e61b46992f577a
+      internalID: -1911281518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_53
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08dc2950ee16145874e56b0577961a
+      internalID: -1759329735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_54
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e55aa59656f44d9187215ef2ab102
+      internalID: -1660933335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_55
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56784fe1c0c3e844ba8762a73aff5eff
+      internalID: 227531481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_56
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6e142545edd542a092cbfab6b80f9
+      internalID: -1076606623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_57
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d284725ddb80042b6dd904dfed4153
+      internalID: 2134407939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_58
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c20023fd3efe64a9aca0148400ed4f
+      internalID: 1117829027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_94
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3019
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9a006e2f898b40a56afd27df7f2c6
+      internalID: 1173592818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23905fcb0842aaa4db21321f7f3b22cd
+      internalID: 1040709444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_61
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035c051aab47b945a01100bf4f22ec7
+      internalID: 977867678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_62
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5226c4388c6c9459bf9c6a5c654453
+      internalID: 475449705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_63
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93604cb585687dc40975ca5fc2fe5115
+      internalID: 862768601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_64
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597a7fa2d1a3b8459cbd00c98aadf53
+      internalID: -1048493374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_65
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f785f3bddfed3448ac72a93d00e8fff
+      internalID: -1136665046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_66
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44224da13e64b2447a0421479fe129a0
+      internalID: 396277477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_67
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901d6977dad02c4788b2388c24878c7
+      internalID: 209224448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_68
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2667db2ea4994f88340100ad51845
+      internalID: 1842247929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_95
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26d0796c230ca43b4f9bda7d030aba
+      internalID: 449957492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b030244d24f64d9e4efc97e095c68
+      internalID: 1090648549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_71
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850db6e9e3e7914dadc5ed00ee5854a
+      internalID: 1989355512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_72
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d6d65a89651a49b414b2790fabebe
+      internalID: -590904505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_73
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856e528c78652544a9e47e0289bc4bd
+      internalID: 1988908884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_74
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcdb74c8f121b346ab2c9ac84652544
+      internalID: -1376393473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_75
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de2be1bbd9e2644b7b681738ea0c9b
+      internalID: -83306632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_76
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af53866a7eabf4e97ead3a7c64045e
+      internalID: -1513133528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_77
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1e9e3a082a0a47a17760513ce1b41
+      internalID: -1781283548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_78
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590156aa9c2b5b44a02c0ad090deed5
+      internalID: 1292753817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_96
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ca2e2c106ab34fad278814d6146d0
+      internalID: 1653376069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bad796cdb0ae04096b4c3122810832
+      internalID: -1209386744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_81
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7aac374cd66f43b463be273991dae
+      internalID: 303748190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_82
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd67b7aaa46f847825640dbbcf3ec2
+      internalID: -1317353164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_83
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb342fe08da6444bb07f826f012a6f2
+      internalID: 1556418041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_84
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b09d37dc297be4683a15b9c13abf36
+      internalID: 1898587223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_85
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f52f06f715ca546ba51959f616ad68
+      internalID: 705501992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_86
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365e6e48ef1659418b56ccd254dd3bf
+      internalID: -240830184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_87
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215862d1fe2945b4595fe8a4d6d24d0c
+      internalID: 865879849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_88
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea858759562e2b4aae6aad608f094eb
+      internalID: 768976566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinIdle_97
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b9aca4a6f615408eebe8bbc319841
+      internalID: 956877040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PinguinIdle_0: -1118336538
+      PinguinIdle_1: 1013842000
+      PinguinIdle_10: 1442179734
+      PinguinIdle_11: 313951778
+      PinguinIdle_12: -2030289745
+      PinguinIdle_13: -918563575
+      PinguinIdle_14: -781743083
+      PinguinIdle_15: -664381077
+      PinguinIdle_16: 1139682576
+      PinguinIdle_17: -1530859869
+      PinguinIdle_18: 1261069097
+      PinguinIdle_2: 947528648
+      PinguinIdle_20: 976433958
+      PinguinIdle_21: 2135671251
+      PinguinIdle_22: 233952296
+      PinguinIdle_23: -1895542297
+      PinguinIdle_24: 1532874607
+      PinguinIdle_25: -303053621
+      PinguinIdle_26: 1885436498
+      PinguinIdle_27: 2143769282
+      PinguinIdle_28: -1908991978
+      PinguinIdle_3: -1240184529
+      PinguinIdle_30: -1252814005
+      PinguinIdle_31: -20190003
+      PinguinIdle_32: -2005492896
+      PinguinIdle_33: 1612605473
+      PinguinIdle_34: -2037339020
+      PinguinIdle_35: 898523214
+      PinguinIdle_36: -153637500
+      PinguinIdle_37: -773350749
+      PinguinIdle_38: 1301274117
+      PinguinIdle_4: -532760265
+      PinguinIdle_40: -1031772811
+      PinguinIdle_41: -1323695472
+      PinguinIdle_42: -685815680
+      PinguinIdle_43: 135836630
+      PinguinIdle_44: -1439982213
+      PinguinIdle_45: -1024462973
+      PinguinIdle_46: 1388795375
+      PinguinIdle_47: 1417401240
+      PinguinIdle_48: -1981805340
+      PinguinIdle_5: -885209449
+      PinguinIdle_50: -528645596
+      PinguinIdle_51: 1749325670
+      PinguinIdle_52: -1911281518
+      PinguinIdle_53: -1759329735
+      PinguinIdle_54: -1660933335
+      PinguinIdle_55: 227531481
+      PinguinIdle_56: -1076606623
+      PinguinIdle_57: 2134407939
+      PinguinIdle_58: 1117829027
+      PinguinIdle_6: -432656135
+      PinguinIdle_60: 1040709444
+      PinguinIdle_61: 977867678
+      PinguinIdle_62: 475449705
+      PinguinIdle_63: 862768601
+      PinguinIdle_64: -1048493374
+      PinguinIdle_65: -1136665046
+      PinguinIdle_66: 396277477
+      PinguinIdle_67: 209224448
+      PinguinIdle_68: 1842247929
+      PinguinIdle_7: -278121678
+      PinguinIdle_70: 1090648549
+      PinguinIdle_71: 1989355512
+      PinguinIdle_72: -590904505
+      PinguinIdle_73: 1988908884
+      PinguinIdle_74: -1376393473
+      PinguinIdle_75: -83306632
+      PinguinIdle_76: -1513133528
+      PinguinIdle_77: -1781283548
+      PinguinIdle_78: 1292753817
+      PinguinIdle_8: 1027157640
+      PinguinIdle_80: -1209386744
+      PinguinIdle_81: 303748190
+      PinguinIdle_82: -1317353164
+      PinguinIdle_83: 1556418041
+      PinguinIdle_84: 1898587223
+      PinguinIdle_85: 705501992
+      PinguinIdle_86: -240830184
+      PinguinIdle_87: 865879849
+      PinguinIdle_88: 768976566
+      PinguinIdle_89: -1191494963
+      PinguinIdle_90: -1788749457
+      PinguinIdle_91: 2133895586
+      PinguinIdle_92: -750639365
+      PinguinIdle_93: 629295481
+      PinguinIdle_94: 1173592818
+      PinguinIdle_95: 449957492
+      PinguinIdle_96: 1653376069
+      PinguinIdle_97: 956877040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

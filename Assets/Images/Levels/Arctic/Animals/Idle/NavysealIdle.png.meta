@@ -1,0 +1,3436 @@
+fileFormatVersion: 2
+guid: dd3b9ad99cade1f43ada9ca57ceb8136
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 168
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NavysealIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb84455fcfc5e245b302a1e7cfb2824
+      internalID: -1409769938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bb76e8d30c15458ab69de05042d70
+      internalID: -769004768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727bf8a69ef759d4b905fdfe330ab490
+      internalID: 1570486158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2921ee4fbce97a448db312fa5248602
+      internalID: 1980383747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878c2d87d1b0c24b8f39a23b39262c1
+      internalID: -153469570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142f496a423a444f8eb5cb421972e76
+      internalID: 1635215336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_6
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98afe191d2678174b8ffdbef299f59b0
+      internalID: -287086011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_7
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96854c715bfbcd489a1bb29b38930f8
+      internalID: 1156487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_8
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1957c896396a80418054a05ed4e2c75
+      internalID: 1554767567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_9
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689a8cbdeaef5645a68197bfec60b5b
+      internalID: -1773543569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_10
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c47c4dc2143649a999dc077443e93
+      internalID: 757476209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_11
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f48d0629aa17a43bdeae519740e731
+      internalID: 608345237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_151
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb86050cf9001142b3848506c2e929a
+      internalID: -1050312488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486dd73107ab2d949b98cc000e7ab73b
+      internalID: -184233335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49acde112a91dc9499c8ca9b07fd93fb
+      internalID: -942052357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207dce01b3e51c149906a4276bc1c2a8
+      internalID: -2140446062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_16
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9286996a590b4382c66ac8b2fef0b
+      internalID: -348064923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_17
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16351ec26981e9045b3fdb286406d304
+      internalID: -1940531388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_18
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb15eb2ca9e40c24cb9391da7db955ce
+      internalID: -1507239486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_19
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769e494b137d974294da800a9e907a9
+      internalID: 484571605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_20
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb7a86cebdbc54a894335b24df43c8
+      internalID: -1471214064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_21
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44297da90d78f47abbdf9853b837fc
+      internalID: -1903023360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_22
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecd58eb9185ca44786ade9c5ea048fe
+      internalID: 253648657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_23
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b649042d6c910c46b659e8e1b41083c
+      internalID: 805860530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_24
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b943b1c742b604ca87284db54f2daa
+      internalID: -744175911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_152
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0cdb072c315ed43b77af8a58fc3c6a
+      internalID: 596902367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d31e59ead540245a83f79474362534
+      internalID: -1069646684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327f49f5d003c546b39b3c9b27432d2
+      internalID: 988752091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_28
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b278404dd18de04eb5261f942b53e1a
+      internalID: 1426432546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_29
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b88fc8f379424fb0f4107a6098fe4
+      internalID: -1404926574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_30
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28827e408ae3c04297496bbce3985e2
+      internalID: 267620221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_31
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63cb35d6229f16419179da6c8ce452d
+      internalID: 1759375772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_32
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef7f29b7cc3a24795afebb380e18bb
+      internalID: 1216543418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_33
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491a16a76717e9459c18e5b5e81e58f
+      internalID: -571727776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_34
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d833317c7ba05e4296709a89143996c
+      internalID: -1482743407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_35
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbd80180370814384a28b8122c735c
+      internalID: -2072688292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_36
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697f79194bc5374685073a722de802b
+      internalID: -1721329363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_37
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b25e0a2071077b4983112ad4a47939d
+      internalID: -1982336934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_153
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c13eef1eb40045904e71bd4b80057
+      internalID: -1969059537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffa5530b6128b4a8cd767aa533ca52
+      internalID: -1778766030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0962fab898aa1469ee361c3cb7d692
+      internalID: -336072739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_41
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7562d5604ffcc4dbb2b9d90315f14d
+      internalID: 651399211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_42
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c6206873f06b49ae1481611f77e4a
+      internalID: 618646490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_43
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d30ef8b17a20b144ae5bfd65d188efd
+      internalID: -1617990485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_44
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3357d050a23543b19824794a542a4
+      internalID: -1907564590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_45
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118395726bddb348bef251d0d00fc09
+      internalID: -1675522892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_46
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a1fc4dd428f24f8eb0e20beedd555
+      internalID: -1491794360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_47
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5d21292bd9ed409830deaafb536f7
+      internalID: 786260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_48
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907231626b269c4ea9b52e9ced906a5
+      internalID: -934906346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_49
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905807a951f4364ab7a8ae2c9e9f087
+      internalID: 373286857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_50
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f8896545ab014197352049c5f7b2e
+      internalID: 183106872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_154
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c7f64940a349439b8615ea0288da5
+      internalID: -813325341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e28d7ef0fd328b478c88e8106a50707
+      internalID: -532090061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_53
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d35592ccb05244aad3775b5cd9c6a0
+      internalID: -491306565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_54
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819edaba040d914d9aa13a034936f8d
+      internalID: 1119285323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_55
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0dc9e32e340945961859ea209155d
+      internalID: 26912054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_56
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338dc835e59a9eb42b9a38f8e6071942
+      internalID: -643737803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_57
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cab76a7f15c9342962e8bf359d07ec
+      internalID: 1090791019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_58
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64702faa7d51a24f90f7babe478a21b
+      internalID: 1192675174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_59
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647d90200d1f0746a741f5e5de97569
+      internalID: 1284928485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_60
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2588dfd2f484cd488d3b6d7af314c94
+      internalID: -1616169743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_61
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc768b493c9f8cd4db8cb9b2a6b11494
+      internalID: 984440825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_62
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec05384bfbe3147a31ae1af2b7e75d
+      internalID: 237578131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_63
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2f0befcebe3c48960f92061b0e7dc
+      internalID: -2085380901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_155
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dd6f0cecee14a4bbe5949cbae29a22
+      internalID: 873592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88788af6ccf9b7744bf41d23ad31c4f1
+      internalID: -1624614598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_66
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0569d231056074094a0146df619bf0
+      internalID: 483982902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_67
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbbac32a6838044197f5264d5d2f591
+      internalID: 361355714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_68
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0ae942d5b84a4a87cd15f060a6157
+      internalID: -1948023217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_69
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4c043f4d5858419950f1d53b1f375
+      internalID: 1491593235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_70
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a0d94f9cd59964daa9dba955557de3
+      internalID: -1200827184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_71
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8263db3c472614f9067d382eba5b55
+      internalID: -563981453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_72
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76390981ebd8a84cb3ef1f431154436
+      internalID: -1727287007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_73
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3465d1453e8ed47b629299cb60ae14
+      internalID: 1406840104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_74
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bdddf2ba54ca4fa40f6cc04edf313
+      internalID: -632929636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_75
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f9215c2f1dae48ba2338a8c4f4c41
+      internalID: -1511799302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_76
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8741c605ea0047b2d8c598f711e01
+      internalID: -1347304663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_156
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966cd21d8b55ae41a73fa185dbad2a4
+      internalID: -2075218756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf061476315c44f8a8bf1128662cde
+      internalID: 1783002105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_79
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45682e791f045914bbae346bced59386
+      internalID: 2103407726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_80
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bba1cd7ccc0f5409623247096a466b
+      internalID: -1759051124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_81
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed62a17d125f5c34e9c5f091f673bd6a
+      internalID: -1210209266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_82
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47916c3f4a3737439efc18bcfcfc11f
+      internalID: -385826049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_83
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca98b4020abc1243b2010d21b38d11c
+      internalID: 949611421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_84
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b94ae805bec54e801311afc2df9dd
+      internalID: 967728576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_85
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7be71e8c0fec74eb3bec534b84b424
+      internalID: -2139479470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_86
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc47fe5476c1545bfef37834771c0f
+      internalID: -1164344234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_87
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e2f61b9d282c499b26f0400bcc2fc
+      internalID: 390496862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_88
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeec98f6cae4b1429c6333f93d44c48
+      internalID: 1328651628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_89
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab298e3efd8da1a49accca57d983f74d
+      internalID: 425539069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6813d71daec66d244bb336190ad9f9be
+      internalID: 2046528832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_92
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28249cffe27084a47803e304b0c79d4c
+      internalID: -1904744500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_93
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246737ae9ac75948a894efe02a3205e
+      internalID: -1559108286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_94
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7aab50d6dc424bbb46ca2ba1d8c60
+      internalID: 478895967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_95
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f78218ca80ff46b1b4ec4ede87bf3
+      internalID: 1368081571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_96
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efd128abc59f14eb615068ed33c8f7
+      internalID: -252507981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_97
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb92ced4e4093418f1e6b657aa8ca2
+      internalID: -1884825566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_98
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9ee787d0d58042a9d52e3bbeda310
+      internalID: -2022978910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_99
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911f1c388945244a84d1e88d5b0e7a2
+      internalID: 116270768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_100
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3d9237a7f37a4a97835877bcb06fd
+      internalID: 906416295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_101
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddced6db1489b54fa2afe5db221c1ee
+      internalID: 2037499811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_102
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467f4726805edb46b225944c97a55ad
+      internalID: 5546180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a30ed64b813454eba411f5e5fda1c8
+      internalID: 123669581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_104
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db5676cdf57b84580cd5db6d23a1ee
+      internalID: -1597665634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_105
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b52463315ae84f857e19b3ac648ff
+      internalID: 222583339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_106
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae9dc342dc68e4fb6a402c30282b56
+      internalID: -1197312637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_107
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a314621f0f815ff4a8fcf3fa7f86ddb9
+      internalID: 1711269287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_108
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6290d4f9f24236346819edbc3634c471
+      internalID: -578934100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_109
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50fc9b0e27df3a4e916950c8e9aa9b6
+      internalID: -479716135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_110
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6bf58b9dbfee4695b5eed41befe7e
+      internalID: 754220727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_111
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f42967ae2ccbb46a7164026a41139b
+      internalID: -439448739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_112
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07123d22d99c3be4aa9c9bbf37ad1844
+      internalID: 1981075700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_113
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86f3e8889ae9749a25449a5d8becb9
+      internalID: -2075838907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_114
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d1f95fe3c0b1468547d03e7828759
+      internalID: -261639575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a51caa6cda544cb17c0592346a4c8
+      internalID: -1766751840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_116
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e129257bcbcd8f4db802e010d6e8b5f
+      internalID: -1332722045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_117
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed9372aaf62b84ebd145864f69972e
+      internalID: -1837813155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_118
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36f84330c005a4d98a4a1082c03639
+      internalID: -547032493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_119
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d088c7edf4687045b6641b7b1b0f616
+      internalID: 1559744750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_120
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2e692a44d1cc41b31957fcb15aa5f
+      internalID: 1281934223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_121
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56068e7af051c3648bb7aff5c5d6d8e6
+      internalID: 138576586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_122
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82fce7b209b73c479f319f6a36c2696
+      internalID: 165534225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_123
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a648336c5b57448695009cc685480
+      internalID: 1099227203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_124
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68020128774e874d94d799d22c720b3
+      internalID: -46709705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_125
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde149b71172d04995f41ca32813d2d
+      internalID: 1702879345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_126
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914992bf14ac511468913c2b6bcc7a26
+      internalID: -42978756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb262893c00068641a0b4e1c55ec6ab9
+      internalID: -612006721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_128
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a45d3081f4144d80c3d977446689b
+      internalID: 78225004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_129
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a263ccedb59c47aeb1db4b1f4bb38
+      internalID: 880077183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_130
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccde5a2a8c9eea4ebd444402a058c30
+      internalID: 2058840209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_131
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4edc1e7a0f3ba429ebb439ea35bcdb
+      internalID: 311993532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_132
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf55ddd0aa505e4ca19077648b91a04
+      internalID: 1147807639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_133
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa62f4a21ba144e883c58811d92b20
+      internalID: 1930281546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_134
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b18f360f80eae64181a67af82f7246d
+      internalID: 1365032906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_135
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18efb5610418c6a40b626b2ddf7a8b90
+      internalID: -474662024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_136
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8e3c03114a194bb5806446f2a53e3
+      internalID: -1269706878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_137
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf7ad51a2ebb248af13a6152abf0cf
+      internalID: -1810973061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_138
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d283a82db5b644d4a871aea0edc28c67
+      internalID: -1881519426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a5d531c217ce4bafaec4434c4dfc3
+      internalID: 660104957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_140
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c84bcff99b468448d7a97971137439
+      internalID: 976792202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_141
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc11101ae04404f9f3c3daf189d241
+      internalID: 242143296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_142
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614f86deb95594419668369b4e795e9
+      internalID: -775547644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_143
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081f9905157fc147a1ef741413f9f98
+      internalID: 1754218469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_144
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c0e9fdf4c0fd49a6e80da6782ecfe
+      internalID: 955064935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_145
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e728313c92fa134a89fc11772626b47
+      internalID: 1516328684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_146
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad656e78af56ca34787b8c4035624b6d
+      internalID: -598565936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_147
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5df3ff6cf1e0943989cc376ed82613
+      internalID: -428403302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_148
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3b872ce94f2d4dbbb3823d45c2fe8
+      internalID: -1965249959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_149
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd70f3b2de26f34c9298bb155b639cd
+      internalID: -338914984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealIdle_150
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1151f9e7a1d3645bd3410481c33b6f
+      internalID: 523397128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NavysealIdle_0: -1409769938
+      NavysealIdle_1: -769004768
+      NavysealIdle_10: 757476209
+      NavysealIdle_100: 906416295
+      NavysealIdle_101: 2037499811
+      NavysealIdle_102: 5546180
+      NavysealIdle_103: 123669581
+      NavysealIdle_104: -1597665634
+      NavysealIdle_105: 222583339
+      NavysealIdle_106: -1197312637
+      NavysealIdle_107: 1711269287
+      NavysealIdle_108: -578934100
+      NavysealIdle_109: -479716135
+      NavysealIdle_11: 608345237
+      NavysealIdle_110: 754220727
+      NavysealIdle_111: -439448739
+      NavysealIdle_112: 1981075700
+      NavysealIdle_113: -2075838907
+      NavysealIdle_114: -261639575
+      NavysealIdle_115: -1766751840
+      NavysealIdle_116: -1332722045
+      NavysealIdle_117: -1837813155
+      NavysealIdle_118: -547032493
+      NavysealIdle_119: 1559744750
+      NavysealIdle_120: 1281934223
+      NavysealIdle_121: 138576586
+      NavysealIdle_122: 165534225
+      NavysealIdle_123: 1099227203
+      NavysealIdle_124: -46709705
+      NavysealIdle_125: 1702879345
+      NavysealIdle_126: -42978756
+      NavysealIdle_127: -612006721
+      NavysealIdle_128: 78225004
+      NavysealIdle_129: 880077183
+      NavysealIdle_13: -184233335
+      NavysealIdle_130: 2058840209
+      NavysealIdle_131: 311993532
+      NavysealIdle_132: 1147807639
+      NavysealIdle_133: 1930281546
+      NavysealIdle_134: 1365032906
+      NavysealIdle_135: -474662024
+      NavysealIdle_136: -1269706878
+      NavysealIdle_137: -1810973061
+      NavysealIdle_138: -1881519426
+      NavysealIdle_139: 660104957
+      NavysealIdle_14: -942052357
+      NavysealIdle_140: 976792202
+      NavysealIdle_141: 242143296
+      NavysealIdle_142: -775547644
+      NavysealIdle_143: 1754218469
+      NavysealIdle_144: 955064935
+      NavysealIdle_145: 1516328684
+      NavysealIdle_146: -598565936
+      NavysealIdle_147: -428403302
+      NavysealIdle_148: -1965249959
+      NavysealIdle_149: -338914984
+      NavysealIdle_15: -2140446062
+      NavysealIdle_150: 523397128
+      NavysealIdle_151: -1050312488
+      NavysealIdle_152: 596902367
+      NavysealIdle_153: -1969059537
+      NavysealIdle_154: -813325341
+      NavysealIdle_155: 873592628
+      NavysealIdle_156: -2075218756
+      NavysealIdle_16: -348064923
+      NavysealIdle_17: -1940531388
+      NavysealIdle_18: -1507239486
+      NavysealIdle_19: 484571605
+      NavysealIdle_2: 1570486158
+      NavysealIdle_20: -1471214064
+      NavysealIdle_21: -1903023360
+      NavysealIdle_22: 253648657
+      NavysealIdle_23: 805860530
+      NavysealIdle_24: -744175911
+      NavysealIdle_26: -1069646684
+      NavysealIdle_27: 988752091
+      NavysealIdle_28: 1426432546
+      NavysealIdle_29: -1404926574
+      NavysealIdle_3: 1980383747
+      NavysealIdle_30: 267620221
+      NavysealIdle_31: 1759375772
+      NavysealIdle_32: 1216543418
+      NavysealIdle_33: -571727776
+      NavysealIdle_34: -1482743407
+      NavysealIdle_35: -2072688292
+      NavysealIdle_36: -1721329363
+      NavysealIdle_37: -1982336934
+      NavysealIdle_39: -1778766030
+      NavysealIdle_4: -153469570
+      NavysealIdle_40: -336072739
+      NavysealIdle_41: 651399211
+      NavysealIdle_42: 618646490
+      NavysealIdle_43: -1617990485
+      NavysealIdle_44: -1907564590
+      NavysealIdle_45: -1675522892
+      NavysealIdle_46: -1491794360
+      NavysealIdle_47: 786260
+      NavysealIdle_48: -934906346
+      NavysealIdle_49: 373286857
+      NavysealIdle_5: 1635215336
+      NavysealIdle_50: 183106872
+      NavysealIdle_52: -532090061
+      NavysealIdle_53: -491306565
+      NavysealIdle_54: 1119285323
+      NavysealIdle_55: 26912054
+      NavysealIdle_56: -643737803
+      NavysealIdle_57: 1090791019
+      NavysealIdle_58: 1192675174
+      NavysealIdle_59: 1284928485
+      NavysealIdle_6: -287086011
+      NavysealIdle_60: -1616169743
+      NavysealIdle_61: 984440825
+      NavysealIdle_62: 237578131
+      NavysealIdle_63: -2085380901
+      NavysealIdle_65: -1624614598
+      NavysealIdle_66: 483982902
+      NavysealIdle_67: 361355714
+      NavysealIdle_68: -1948023217
+      NavysealIdle_69: 1491593235
+      NavysealIdle_7: 1156487531
+      NavysealIdle_70: -1200827184
+      NavysealIdle_71: -563981453
+      NavysealIdle_72: -1727287007
+      NavysealIdle_73: 1406840104
+      NavysealIdle_74: -632929636
+      NavysealIdle_75: -1511799302
+      NavysealIdle_76: -1347304663
+      NavysealIdle_78: 1783002105
+      NavysealIdle_79: 2103407726
+      NavysealIdle_8: 1554767567
+      NavysealIdle_80: -1759051124
+      NavysealIdle_81: -1210209266
+      NavysealIdle_82: -385826049
+      NavysealIdle_83: 949611421
+      NavysealIdle_84: 967728576
+      NavysealIdle_85: -2139479470
+      NavysealIdle_86: -1164344234
+      NavysealIdle_87: 390496862
+      NavysealIdle_88: 1328651628
+      NavysealIdle_89: 425539069
+      NavysealIdle_9: -1773543569
+      NavysealIdle_90: 875678932
+      NavysealIdle_91: 2046528832
+      NavysealIdle_92: -1904744500
+      NavysealIdle_93: -1559108286
+      NavysealIdle_94: 478895967
+      NavysealIdle_95: 1368081571
+      NavysealIdle_96: -252507981
+      NavysealIdle_97: -1884825566
+      NavysealIdle_98: -2022978910
+      NavysealIdle_99: 116270768
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

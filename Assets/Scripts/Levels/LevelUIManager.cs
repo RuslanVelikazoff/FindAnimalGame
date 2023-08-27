@@ -90,14 +90,14 @@ namespace UI
             }
         }
 
-        public void ShowUI(bool status, int nextLevelCount)
+        public void ShowUI(bool status, int nextLevelCount, int level)
         {
             for (int i = 0; i < gameObjects.Length; i++)
             {
                 gameObjects[i].SetActive(status);
             }
 
-            if (nextLevelCount < 5)
+            if (nextLevelCount < 5 || level == 10)
             {
                 nextLevel.SetActive(false);
             }

@@ -1,0 +1,3545 @@
+fileFormatVersion: 2
+guid: a722cb6b57b403b41ac51b5d7207d886
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinguinAnimation2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8ae8a14d9654459d7faea61efa3a1
+      internalID: 1191677005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19df96ff8e5784fbaeebf2e23e9695
+      internalID: -75948818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_2
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac12c4a9aee8204e967e628342a0c51
+      internalID: 200627416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_3
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e188daf730cbbd4f904ce71084eb489
+      internalID: 978077985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_4
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ecdd787d184e4e89aff13c99d0a4c
+      internalID: -2078451516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_5
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8484ab71891f04f9352349c53e176f
+      internalID: -470461694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_6
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8d60256d454840974dbcaf1e89820
+      internalID: 1296636759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_7
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc9507765455843b921f7c751dd7db
+      internalID: -247646148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_8
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4ecbeb6b509447b3d3a14f963e599
+      internalID: 1067341725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_9
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b694060fa05040b4288d934998dda
+      internalID: 501038840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_10
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86563bd34b0c6a0419620ec26b757427
+      internalID: -1642231409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_11
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149fedc93bc52ab43998fb2b3bb9ed20
+      internalID: 1929408322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_155
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dff9d13c7e4e94f92ddac727ba7e0a
+      internalID: -504995928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5abcb601cb934e95cb12581a686dd
+      internalID: 1761114653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b11d66ec16b2f438f9527681c1830f
+      internalID: -1077576110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_15
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde24977965d23c40bf2bdd52218c16e
+      internalID: 1923777784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_16
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2711fb497190c54c96191a482be42f8
+      internalID: 714323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_17
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1696971ba919d49b7e1a6304e3558f
+      internalID: 1377573054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_18
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cfad20d888cc44393d8c679c5251ab
+      internalID: 1953693878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_19
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074f49bee2304d4a87f4e6b89f2bb4a
+      internalID: -2095206327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_20
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f332647c6c284e9ca9670b6353f8f
+      internalID: 1871657578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_21
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7e9ac86cf3f044a65826a684a5dfa
+      internalID: 553700154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_22
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ff0965465f1840917f061d5bb8adf
+      internalID: 1802496028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_23
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75803eb07c64c042b53085f7f87e8e0
+      internalID: -1991359606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_24
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde28fcf9de01994f8779c7db493255b
+      internalID: 1478249261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_156
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f07d2e04294f498ebdb09c01cea3f
+      internalID: 2128193597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4954759945274782427a92e2cc5e7
+      internalID: -301395152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71044fb410149d44db2b10920b232fc0
+      internalID: 198620579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_28
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e26718eb885d1d42a1bc8ba5bb1485e
+      internalID: -715432012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_29
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde9c71cc644f645953ce927ad93a91
+      internalID: -2111970420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_30
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d02e391ac1bfa4da92b39e108c3783
+      internalID: 1912503147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_31
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a482c27807c15ba46b370206c0a182c7
+      internalID: 1875851904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_32
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cba3ec8e5c8474195395a5107af5ef
+      internalID: 1380902823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_33
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ace570efa2954a910e0830ab1b47c
+      internalID: 635675605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_34
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff1507a20e491439b03854db9d087b
+      internalID: 1868239150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_35
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ecf3785884d244a02c29207a6ba73
+      internalID: -1690163749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_36
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6b037bc906494793da9f68b418364
+      internalID: -1670603587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_37
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592aaf7c72dcd6f438c1bca8171bf042
+      internalID: -1006066456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_157
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e436c9da17ea1a4eb4f9dfb82627209
+      internalID: -1520451407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee4d0acae2ebf446a7ef72bc244fa62
+      internalID: -1632536698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_40
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee399a333c1b74e89f854cb39d6d46
+      internalID: -1731680767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_41
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c463236187674b99aae47d94d5c27
+      internalID: -1584198646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_42
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b20e2cfc3c24147b12defd93588394
+      internalID: 265782826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_43
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752876db3819844c8adafc66ffb2261
+      internalID: -477764564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_44
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1244ed710b7c4ab81e06674c2c2f0
+      internalID: -1306321311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_45
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc945b46796e3489853d533834348a
+      internalID: 2043660683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_46
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb23b4ee7db09db42832736e0f6f9378
+      internalID: 492451310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_47
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59aef0a6b6f64b4e827a51715f5a296
+      internalID: 161182002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_48
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a25bbec6f391b34aa414ea4d8f43023
+      internalID: -450286639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_49
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6461a5f70692354698d26bc924a6e67
+      internalID: -704432452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_50
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a61da3007de8419ac3691fcd64cc4
+      internalID: -735347913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_158
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bd5f63b6b85c4e8016f693ff62f55
+      internalID: -1578506963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb5b7306870b04bb3003af82a2f214
+      internalID: 1998279684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_53
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8423e6f862dff54288eb4fbcc3d2a63
+      internalID: 633206313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_54
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521607ed69db64140a578ceed65ac48f
+      internalID: 1258691906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_55
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038bb723bc1de6a4aa3965d5a1779600
+      internalID: 464684491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_56
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61e9ce41d5d9d408b58e11a582e1ae
+      internalID: -26986725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_57
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087c36f32448a54b80d5aba2182c207
+      internalID: 1268888456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_58
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db24ddd346c2244a946ddfebeac8d3
+      internalID: 528428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_59
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756563817ee78da48882fd542fc86eed
+      internalID: -1958676490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_60
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069b0368cc39c14d90b6a52fe0f73a8
+      internalID: -401672516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_61
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770b9a242f903549993892fe9b76a95
+      internalID: -1403470030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_62
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da163d30c9ba745ba623a0c47e776d
+      internalID: 1513769016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_63
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc54967bd449b394ea4a3286e1816042
+      internalID: 273031354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_159
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b61804f2ac4d4409cc4faff35413ab
+      internalID: -496903750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd083178da19241976826a5f8243d1
+      internalID: -1795789524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_66
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8269de992e98d4a9ef79b635272f13
+      internalID: -17448306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_67
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d8939a00199947a7573cdf0ce1d24
+      internalID: 2002058645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_68
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207ed2075a1a8b4c83faa16ae16f02a
+      internalID: 1528486463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_69
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4c6d508192554cbf80628917efdf5
+      internalID: 327028484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_70
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be8e9f9624c1854f998b6ecca0ec47d
+      internalID: 1394306029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_71
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434380703a7f6842818e76b7249831b
+      internalID: -293784640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_72
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae7a16562e93845946a84254d9ed9c
+      internalID: 2039186707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_73
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25f0209313cac429adda3b6d948a8d
+      internalID: -2012827035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_74
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31b11dba7066d44e8f2d055aa4f469e
+      internalID: -1386196523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_75
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8947d8f8f25b4b9cda7af0fa3d9f3
+      internalID: -1304498508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_76
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d347bc05311091b44868eb4f308fedac
+      internalID: 1724823245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_160
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f1f42371346d41a21ac89d4be5556
+      internalID: 2014284774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ed390687435d4f9811babc638aadd
+      internalID: -2085147297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_79
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60869f8ad423054f96c7be0dda98cdd
+      internalID: -1681635002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_80
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522b393c32f77943bb1ca26a72afbb3
+      internalID: 1821650145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_81
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f894ad9befdb0649ae1042c67e87c9a
+      internalID: -1882392247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_82
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3163f1df4ac8f941ae385512e7f9bf0
+      internalID: -1016763130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_83
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed967f5c2a90ac4458c8124388cc0557
+      internalID: 789394389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_84
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67408b464ce7573468cc6a7e108a79fa
+      internalID: -2144159515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_85
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a985c09dea9348bcfbf368c5baecc
+      internalID: -645416446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_86
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127187e95cdd5034a867f31deb37e1f4
+      internalID: 858721764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_87
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920362cfb421cec4499febeb691dbf9c
+      internalID: -1193018308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_88
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c1ba86eebf4644895d5a61e6c81ff
+      internalID: -325647363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_89
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632b7f8bae573d4eaf30514c9e1fc13
+      internalID: 1996940568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_161
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99344ddea3cd8a4e802d01d6660629f
+      internalID: -809469625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aacd3725944604db128ede9b23005b
+      internalID: 520367199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_92
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5138dc00fab146b267f4901f3d14f
+      internalID: 1713504175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_93
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0f31f18e433b48a37fba43264ed0b
+      internalID: 490572514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_94
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ebf0fae12f4dc4c8f32ce2273c0040
+      internalID: -422631957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_95
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6606450b0fa94aa0a45a4460a156a
+      internalID: -1500630350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_96
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6265b4f1110542b31f8255c23eff0
+      internalID: -1881514304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_97
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91e95319f21834caa0056b502a1357
+      internalID: -281323384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_98
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68196c63380a147ad49e4d720ed488
+      internalID: 1970299278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_99
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23872f81995ff974c81896cd8ec30a54
+      internalID: 1845149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_100
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f9881b334c7f42885a3127bc4b42f
+      internalID: 1894065294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_101
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab28536be4a90a449523983f64f6275
+      internalID: -1695725383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_102
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35b2da0ff93294cba5847eb33b90ff
+      internalID: 7688782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_162
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202b7b7a3444364c8f11b08ba33ef2f
+      internalID: -1126764657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c76b1974ff7648bf0496ae700d819
+      internalID: 1440412961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_105
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34b12fc0d5aa6458b55eed6ac429da
+      internalID: 548373651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_106
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2fa6ae86ed30641bb8b1e616bfbb21
+      internalID: 1193608334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_107
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c2f894f5d9e04aaaa494d1ef27728
+      internalID: -1398866833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_108
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f771837dba4d684bbe2fa3f688a2495
+      internalID: 1530031018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_109
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018e79470533574fa1cae733fa8e239
+      internalID: 1296262059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_110
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deda5a0d1243054db80c885c75f7998
+      internalID: -1004481648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_111
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2227bb3776cbdd846a41b366cd5a73b0
+      internalID: 867639759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_112
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4117a60c227f5b04aa87ff23c881c8e7
+      internalID: 1540939512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_113
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d543ca2b044e349a3e27d0e5255e50
+      internalID: -1650053102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_114
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6c071219fa3e49af83524ca38b2a1
+      internalID: -1527089856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_115
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd04aa0854443094f8bdeb5485ffc67c
+      internalID: 1593204938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_163
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1e74fdb81eae44856a601be570278
+      internalID: 1092700519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c456a5c32ad6e14896269a530636120
+      internalID: 1394881438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_118
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5445052e61ff14ea6fbb69b77e148a
+      internalID: 442193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_119
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d88d4d861d5b34db5c241c42c9867a
+      internalID: -1057222116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_120
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07af5dd34299764c87a2e5a88645786
+      internalID: -667310885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_121
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418229ca28ef90f45852ab81dc2cc2ac
+      internalID: 1729065858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_122
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124ae695d4ac454e8f801afae1fe4ff
+      internalID: -1721379132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_123
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2386bc108e826474a92112d857a8b22e
+      internalID: 503202965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_124
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3957b97c3584cb4fb1a95e203dd5ec7
+      internalID: -1729366139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_125
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48724a57ff2ccf74c8c8d606907c600f
+      internalID: -842181522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_126
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42b477271181b4c9c4543d505125c9
+      internalID: -297320552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_127
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab70d67f0281ca4aa3b21788d3c2bee
+      internalID: -1185076562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_128
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bebf20a4dca6949aab3be71d7f3fec
+      internalID: -2051441044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_164
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dedd55de5e4e44916b7a0efdec1d7
+      internalID: 1610652897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9dc98df8b93e4c89448f9e7c7d5d7
+      internalID: 69528187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_131
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26def00ff5c844997067cf5f342f23
+      internalID: 1399307911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_132
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b87982821d7a34680ec80b39ef59aa
+      internalID: 533177504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_133
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f986f06e28f9ab4ab60d05583ac094d
+      internalID: 702843017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_134
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7ecd6768fb454c98baf5f4fcecbf6
+      internalID: -329624289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_135
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f820d3899968041a9e1de49930a969
+      internalID: -1043759120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_136
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15465af7f026c45bec0c8b36399a01
+      internalID: 1367453449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_137
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bef7048d9e257469cc4a5fc68001d9
+      internalID: -6034648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_138
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4866582cd7e7f6f4b85475d82ff64f0e
+      internalID: 1476680148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_139
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18048118760c79b41b560a2e3e44d9f9
+      internalID: -1430972204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_140
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128c39c072a06145bf205fb59b64b6c
+      internalID: -344522406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_141
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979806812e1ccdc40b2d85f10f7e97d8
+      internalID: 2038680031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_165
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b936559d880ab48b88ca35fd81b9d3
+      internalID: 23334523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dcc532459dcfa40b90a4b078763b54
+      internalID: -437017609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_144
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea261bcf1f54447aac750179ab62fa
+      internalID: 917892801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_145
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a4c0975612384d9fe213ff79da019
+      internalID: 1050685952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_146
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59986cff00ee5409da4cc383458ccc
+      internalID: -1717805888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_147
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04234de654284c341af17cc5aaea58c4
+      internalID: -255759542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_148
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650843f3ffa89640ae94612fc97804b
+      internalID: 2034200999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_149
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0ca6646327fb4f8dc2bec9d5e3781
+      internalID: -2021923852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_150
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad6839a2227b347a9d803c9ae36e0b
+      internalID: 632114210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_151
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3137b67f75504cacf880fd24456fb
+      internalID: -1367179246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_152
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a290e781f53a4a9c488ca9797ffc4
+      internalID: -2110640422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_153
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a12d16d65a91c4480340eb87ff0a44
+      internalID: 1343656180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinguinAnimation2_154
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04588956dbdc5f647833db2a4c8ee3d8
+      internalID: 956761730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PinguinAnimation2_0: 1191677005
+      PinguinAnimation2_1: -75948818
+      PinguinAnimation2_10: -1642231409
+      PinguinAnimation2_100: 1894065294
+      PinguinAnimation2_101: -1695725383
+      PinguinAnimation2_102: 7688782
+      PinguinAnimation2_104: 1440412961
+      PinguinAnimation2_105: 548373651
+      PinguinAnimation2_106: 1193608334
+      PinguinAnimation2_107: -1398866833
+      PinguinAnimation2_108: 1530031018
+      PinguinAnimation2_109: 1296262059
+      PinguinAnimation2_11: 1929408322
+      PinguinAnimation2_110: -1004481648
+      PinguinAnimation2_111: 867639759
+      PinguinAnimation2_112: 1540939512
+      PinguinAnimation2_113: -1650053102
+      PinguinAnimation2_114: -1527089856
+      PinguinAnimation2_115: 1593204938
+      PinguinAnimation2_117: 1394881438
+      PinguinAnimation2_118: 442193633
+      PinguinAnimation2_119: -1057222116
+      PinguinAnimation2_120: -667310885
+      PinguinAnimation2_121: 1729065858
+      PinguinAnimation2_122: -1721379132
+      PinguinAnimation2_123: 503202965
+      PinguinAnimation2_124: -1729366139
+      PinguinAnimation2_125: -842181522
+      PinguinAnimation2_126: -297320552
+      PinguinAnimation2_127: -1185076562
+      PinguinAnimation2_128: -2051441044
+      PinguinAnimation2_13: 1761114653
+      PinguinAnimation2_130: 69528187
+      PinguinAnimation2_131: 1399307911
+      PinguinAnimation2_132: 533177504
+      PinguinAnimation2_133: 702843017
+      PinguinAnimation2_134: -329624289
+      PinguinAnimation2_135: -1043759120
+      PinguinAnimation2_136: 1367453449
+      PinguinAnimation2_137: -6034648
+      PinguinAnimation2_138: 1476680148
+      PinguinAnimation2_139: -1430972204
+      PinguinAnimation2_14: -1077576110
+      PinguinAnimation2_140: -344522406
+      PinguinAnimation2_141: 2038680031
+      PinguinAnimation2_143: -437017609
+      PinguinAnimation2_144: 917892801
+      PinguinAnimation2_145: 1050685952
+      PinguinAnimation2_146: -1717805888
+      PinguinAnimation2_147: -255759542
+      PinguinAnimation2_148: 2034200999
+      PinguinAnimation2_149: -2021923852
+      PinguinAnimation2_15: 1923777784
+      PinguinAnimation2_150: 632114210
+      PinguinAnimation2_151: -1367179246
+      PinguinAnimation2_152: -2110640422
+      PinguinAnimation2_153: 1343656180
+      PinguinAnimation2_154: 956761730
+      PinguinAnimation2_155: -504995928
+      PinguinAnimation2_156: 2128193597
+      PinguinAnimation2_157: -1520451407
+      PinguinAnimation2_158: -1578506963
+      PinguinAnimation2_159: -496903750
+      PinguinAnimation2_16: 714323422
+      PinguinAnimation2_160: 2014284774
+      PinguinAnimation2_161: -809469625
+      PinguinAnimation2_162: -1126764657
+      PinguinAnimation2_163: 1092700519
+      PinguinAnimation2_164: 1610652897
+      PinguinAnimation2_165: 23334523
+      PinguinAnimation2_17: 1377573054
+      PinguinAnimation2_18: 1953693878
+      PinguinAnimation2_19: -2095206327
+      PinguinAnimation2_2: 200627416
+      PinguinAnimation2_20: 1871657578
+      PinguinAnimation2_21: 553700154
+      PinguinAnimation2_22: 1802496028
+      PinguinAnimation2_23: -1991359606
+      PinguinAnimation2_24: 1478249261
+      PinguinAnimation2_26: -301395152
+      PinguinAnimation2_27: 198620579
+      PinguinAnimation2_28: -715432012
+      PinguinAnimation2_29: -2111970420
+      PinguinAnimation2_3: 978077985
+      PinguinAnimation2_30: 1912503147
+      PinguinAnimation2_31: 1875851904
+      PinguinAnimation2_32: 1380902823
+      PinguinAnimation2_33: 635675605
+      PinguinAnimation2_34: 1868239150
+      PinguinAnimation2_35: -1690163749
+      PinguinAnimation2_36: -1670603587
+      PinguinAnimation2_37: -1006066456
+      PinguinAnimation2_39: -1632536698
+      PinguinAnimation2_4: -2078451516
+      PinguinAnimation2_40: -1731680767
+      PinguinAnimation2_41: -1584198646
+      PinguinAnimation2_42: 265782826
+      PinguinAnimation2_43: -477764564
+      PinguinAnimation2_44: -1306321311
+      PinguinAnimation2_45: 2043660683
+      PinguinAnimation2_46: 492451310
+      PinguinAnimation2_47: 161182002
+      PinguinAnimation2_48: -450286639
+      PinguinAnimation2_49: -704432452
+      PinguinAnimation2_5: -470461694
+      PinguinAnimation2_50: -735347913
+      PinguinAnimation2_52: 1998279684
+      PinguinAnimation2_53: 633206313
+      PinguinAnimation2_54: 1258691906
+      PinguinAnimation2_55: 464684491
+      PinguinAnimation2_56: -26986725
+      PinguinAnimation2_57: 1268888456
+      PinguinAnimation2_58: 528428105
+      PinguinAnimation2_59: -1958676490
+      PinguinAnimation2_6: 1296636759
+      PinguinAnimation2_60: -401672516
+      PinguinAnimation2_61: -1403470030
+      PinguinAnimation2_62: 1513769016
+      PinguinAnimation2_63: 273031354
+      PinguinAnimation2_65: -1795789524
+      PinguinAnimation2_66: -17448306
+      PinguinAnimation2_67: 2002058645
+      PinguinAnimation2_68: 1528486463
+      PinguinAnimation2_69: 327028484
+      PinguinAnimation2_7: -247646148
+      PinguinAnimation2_70: 1394306029
+      PinguinAnimation2_71: -293784640
+      PinguinAnimation2_72: 2039186707
+      PinguinAnimation2_73: -2012827035
+      PinguinAnimation2_74: -1386196523
+      PinguinAnimation2_75: -1304498508
+      PinguinAnimation2_76: 1724823245
+      PinguinAnimation2_78: -2085147297
+      PinguinAnimation2_79: -1681635002
+      PinguinAnimation2_8: 1067341725
+      PinguinAnimation2_80: 1821650145
+      PinguinAnimation2_81: -1882392247
+      PinguinAnimation2_82: -1016763130
+      PinguinAnimation2_83: 789394389
+      PinguinAnimation2_84: -2144159515
+      PinguinAnimation2_85: -645416446
+      PinguinAnimation2_86: 858721764
+      PinguinAnimation2_87: -1193018308
+      PinguinAnimation2_88: -325647363
+      PinguinAnimation2_89: 1996940568
+      PinguinAnimation2_9: 501038840
+      PinguinAnimation2_91: 520367199
+      PinguinAnimation2_92: 1713504175
+      PinguinAnimation2_93: 490572514
+      PinguinAnimation2_94: -422631957
+      PinguinAnimation2_95: -1500630350
+      PinguinAnimation2_96: -1881514304
+      PinguinAnimation2_97: -281323384
+      PinguinAnimation2_98: 1970299278
+      PinguinAnimation2_99: 1845149143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

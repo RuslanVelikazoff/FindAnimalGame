@@ -51,14 +51,14 @@ public class LevelManager : MonoBehaviour
         if (exercise == exerciseIndex)
         {
             Debug.Log("Good");
-            levelUiManager.ShowUI(false, nextLevelCount);
+            levelUiManager.ShowUI(false, nextLevelCount, levelIndex);
             animalAnimations[exercise].StartAnimation(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
 
             yield return new WaitForSeconds(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
             
             SetExerciseText();
             nextLevelCount++;
-            levelUiManager.ShowUI(true, nextLevelCount);
+            levelUiManager.ShowUI(true, nextLevelCount, levelIndex);
         }
         else
         {

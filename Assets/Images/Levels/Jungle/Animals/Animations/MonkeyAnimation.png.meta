@@ -1,0 +1,3436 @@
+fileFormatVersion: 2
+guid: e50c7c27b020f2e49a47bbc85c95d14e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonkeyAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4431fa70b5404892f2d250eb7a86d
+      internalID: 396225634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7e9ca52790b749b76b6d43ff02237
+      internalID: 665571829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29feea9d7c86c84fb4a984644423c43
+      internalID: 1674348705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a836bf79992ab444af58f2bc9f2a2d0
+      internalID: -333219557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e8e171839bff4d8a45a6b8404d29d
+      internalID: -1342625234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d57fb37efca6c54380a62e6f9df9e7c
+      internalID: -795351804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf980166dbb109409a9e0791b80eca7
+      internalID: -2137901200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fca614ff59a6440837573cfc6173ab
+      internalID: 314686410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c94de18e80d3c42bb8dba85cc6be41
+      internalID: 2102270401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2628bdb42d8d342ae4fe632f1b74ff
+      internalID: 1235843588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bc7be137a78d4693e3cd779a89d32
+      internalID: -1255196213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f74f34538b115a488ef7f17fffdd8d0
+      internalID: -1125863916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_151
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 13222
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688520ea29eb6304587e94987926b5b1
+      internalID: -1110449918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f51a3ca07b9e547933a6fb27ffe0ed
+      internalID: 1964382789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a86bbf585d5140b82b3f35e574c4e
+      internalID: -1966955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296ac6b5cd5d294b98fc1300e736e99
+      internalID: -1230312634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dae52a4e3fea41b7e000ccfb70e9d
+      internalID: -894622559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb900bd9a5cc14e9a391282268e5c9
+      internalID: 205358063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822d52f0fabc7845896d69be4a90950
+      internalID: 1192337870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470a981744fff14281b059fc194cb97
+      internalID: -956402781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320de6194af7b7146a1ba29c7c10c1df
+      internalID: 58219626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b78cab6e90dade4bb44a55294fe5a28
+      internalID: 1837097722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bc126200556741b82b422fca40ffe
+      internalID: 239470582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0050f9c8b605ed5459e598c72b003d33
+      internalID: -665654912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecf1053b7c6b846859eae6999fedc5
+      internalID: 272568066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_152
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 12020
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d44a30c0cc1b4db85749adee3df71
+      internalID: -258737770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5690f071fced0944904829ab64f057f
+      internalID: -1171238415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b734b9e0a3bc674cb86165e6c10213c
+      internalID: -1853549875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966fba6573c7e1049a39f09f3925851e
+      internalID: -1733370204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561be308f24ab54a90f33995490870e
+      internalID: 1350887372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d551b27e3db4cd47be7a48ef6db268d
+      internalID: -800111381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dede28a24c6edc46860a48cdb44b206
+      internalID: -408643658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9b8a4ca3a24654d83756cd2f64fac0
+      internalID: -738686038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93703d2db877e4a9698c041e6866b9
+      internalID: 1375235624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5691a168ef1abb841a91b04b270faa5f
+      internalID: 35506488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e951ed21027994ab9c31b8cb01d8a3
+      internalID: -427887309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a17d4bd4809e2448a2437f16b5e0bd
+      internalID: -1006756662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d027e513941734ca6e095aa43f10d7
+      internalID: 542607209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_153
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 10818
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f6c9526a19c894985777317884fafd
+      internalID: 1863599765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07713cb32e10a9e42b8e583d88948c15
+      internalID: -1284886992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209a3c0086f1a942b8e8f4f47c535f1
+      internalID: -1493374200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e392e12e5721542a7a989e824915b7
+      internalID: 85469472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb5ae0643c0db4bbe4a52dd9638df4
+      internalID: -1315186303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02705f30bcdf73c4389b0e272e31dd0a
+      internalID: -2115480162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ef0541d0933c1459f6909b18115fe8
+      internalID: -102333971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f88eb21adda94dbd2d5cb0b366cea
+      internalID: 1996618905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072981bfd2c37734e9e1113c0798c491
+      internalID: 1974893387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d183fe7daf534992916e13ad01ffd
+      internalID: 32525572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a9eba2a17241c47831ee5e3dcf51cd
+      internalID: 1019751423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17387d462451a429760157486d2189
+      internalID: 1556141464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09a5acdd7cc4f4fb651a7b4d037a9c
+      internalID: -359014134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_154
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 9616
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b45b88c54420f48be22942ffdfb370
+      internalID: 946010868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892b1101c97d5649900c6e7dfe18156
+      internalID: -64088391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3cad37b123aef4ca316b9b736eb784
+      internalID: 781815445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b78d3261e3604ebfb506564ff0d96
+      internalID: 981804400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6635f3c87b334a4b991bf4f7241d13f
+      internalID: -297250999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453d0ac1bcb82b43b64fe9bbc33f54f
+      internalID: 963361631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a22129bbc663b48ab64b03b54f198d
+      internalID: 1486607801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b50a3d6d42968489087dc590cf08e8
+      internalID: 1461504409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d85f3bbe52884991b0e7e5b95573b
+      internalID: -664397082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc01070ca3327648ba83600c517df98
+      internalID: 205887150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c98f3c1b9bf5458fc81c25dcc1a48
+      internalID: -1941627266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afbabe098808d41bf8bdd4dbc63474
+      internalID: 424226315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51e76a97ccb704f9d6c6e1a39b5a41
+      internalID: -1913566041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_155
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 8414
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd011a9e5b698a442be8dbf169e0129e
+      internalID: -1401983552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba6f6038a795142840cb15b635235a
+      internalID: 699345271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d7f45995a6bd4409a5e32f7827e99b
+      internalID: -1066856765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f9463610aee1f448bb782440dd76fb
+      internalID: 1363205659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fecca9c2b1acbb4db4d173ec6f798e0
+      internalID: -2047488630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612759b3aa967254282432b091d43c24
+      internalID: -835969417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92fed35c85bb1543a1fb65b92698d22
+      internalID: 1013822125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48bc0ad6aca4c4a8c3729930b9566a
+      internalID: -295014611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc3e514ba386c4dbda947fc7749bbe
+      internalID: 1040225893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb59202e373b2540aafdd716e5b2e60
+      internalID: 1401691614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a877bff4955fee244956a7fc435e8331
+      internalID: -182296901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9b6caca5537e4faae8d37b9d6d6b6
+      internalID: -1549403238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c44c6e2c82235049a84b3811f30d239
+      internalID: 384133626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_156
+      rect:
+        serializedVersion: 2
+        x: 14424
+        y: 7212
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6086df9c0510e4428507774a6c157f1
+      internalID: -298974713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb74e381e7f28124bb05bba34e0ebd15
+      internalID: -1984500658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781a1532066c944ab02fb2c3554238a
+      internalID: 1788994321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_80
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cd5ef4133b264193bb8588a2c2a91
+      internalID: -1090111225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520362fda7d64054e80d832d14893bd7
+      internalID: -2017329444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b16e3c98a8a64e8a7e3ba3a2addf6
+      internalID: -2059446742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc84dc2741dd747927687b3195b3c5
+      internalID: 675147066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c1c9d60ead0bb42a017a93775c99c0
+      internalID: 294261104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47a0546449bf1459364a62f12dd871
+      internalID: 1251919243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b126a8a3cd550614d8b1ee8bc9d6a40d
+      internalID: 1321757630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fe45f5e095844ca5d8bfc144a6ea8
+      internalID: 1874570491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7621afe7bc0f40ab7808b4b0dac86
+      internalID: -69795904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_89
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 6010
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc5c8b66752284a88394044938afe6
+      internalID: 1097923071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054d90d276e4c14d90c72c97f332dcd
+      internalID: -406996605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5893e80cbfd245b843045a172b500
+      internalID: 1982201222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4fb4cc61b1444f888ff455f1e1a8a
+      internalID: 440709410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17fdc20ad96ee439fb004167e6410f
+      internalID: 1929867523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4bf2d437c9934ab96fa830138e87e
+      internalID: 1232103967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00259dacce79414b8acd8b0c6a9c35d
+      internalID: 2029419972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537694b9e8d525542801acba8261b74a
+      internalID: -179172267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_98
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b00e8860bd5ee4b821b2cdd088373a
+      internalID: 1445700464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89747419ed8adfc4d96732d3fb2f4f0f
+      internalID: -981279448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cde374077b2f541ae25efca24ffcb3
+      internalID: 458281718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af6b5ffb6e38a4287d7724a685dca8
+      internalID: 1253045483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 4808
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd20cc4b93300340bc6eb6a94369af5
+      internalID: -2123653220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f22da5e2dfd6d4dbcaa048d2aeb367
+      internalID: 1722949110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158cb4ff3bc3ef49b8871523a58b90d
+      internalID: 697938777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a919e730f683a9439be6b17b7458019
+      internalID: 862484119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fda65fcd90bd4dacab27f50baf28d
+      internalID: 1214302041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_107
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b9b3f5b99c374b801f67a18be054e
+      internalID: -2143793597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a1c2cb78b84e40a8933b8fb6d5f01
+      internalID: 1845424824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa899a09cfbf44a42bf19144d8832a43
+      internalID: 1683045737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d836fab3166e4fa2989569155d52e
+      internalID: -44540342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1f31f67fdcef4baf48e25b7300b7f
+      internalID: 589138942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6d5b2cb88c3f40ad356e4463c2dff
+      internalID: -684445753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31bea77823db147a8d02590d9d8cea
+      internalID: 118767451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 3606
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e42ea3830f5746ae89952c836eafa
+      internalID: -145135700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c0ed121c210364c91f8fd6d256e7ce
+      internalID: -712295290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_116
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39a16ab6c7e994fbd3b3cad8d052fb
+      internalID: -1185220780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d7426785705a46aa117aeea5a275d
+      internalID: 319806898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef3ab68e4b65042aef416a73134e05
+      internalID: -848464095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebb25d5fa42df4fae82181d1f56787
+      internalID: -1322141147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792880692dd8aee498d4a7dbffb9d88c
+      internalID: 1673422659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd49c94a2c477341828c9c65af1dfc1
+      internalID: -1427100609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4c2ff7ca828249acf33a7e41f2bcb
+      internalID: 1170037162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0184e84a9969e34f8e1abcc8dee27c9
+      internalID: -494345126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587836ce431f96c49bdd71be4886b7a0
+      internalID: 1229819564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_125
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6571fab1bc8a044bb49eebe7f4a3ac4
+      internalID: -1035688905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 2404
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41060fee12c6040ba6e73cd42da5c7
+      internalID: -1613159840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0596d4e1dd01ce4d908c71eb49ee5ef
+      internalID: 1667480532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a083dc1a958394998cffc2cd8f9d78
+      internalID: -1157091777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cad216f2b873b4aa5455fd00029a0c
+      internalID: -163769655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b06766e56e77449757356381d0634
+      internalID: 1672200037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8c5e6d68e9ff4ba61b02c11cad11d
+      internalID: -30157282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e10b7e51df8844aacf713089b0550e
+      internalID: 1838118072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a80d42bcc61d4abc5195daa34dec3
+      internalID: 799397462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_134
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ddee9459acdb4f96d0ab257b7ce83
+      internalID: -2004784421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_135
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbcd00abdb10d74c91133dd67749ce7
+      internalID: -1590807684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_136
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6be44a003533e4b9bf7f418bdfdc65
+      internalID: 1287174936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_137
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25a8fe2f6a01545ba18e35e5680233
+      internalID: -1157155798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_138
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 1202
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a400a4026f1e634cb94f55a84f05abe
+      internalID: -554509486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1466d92d7039254297ef99afbdee1f9
+      internalID: 1426111362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_140
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c15c9a6c0a6e04c9842a65b976d3c7
+      internalID: 1149003114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_141
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dbcbb8ed8184140a13b5e5d00804a4
+      internalID: -211028687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_142
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec43bfa89c1fe408422f2e7ad690e4
+      internalID: -777131983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_143
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c7e464c8a3ad41b0efae4817b2283
+      internalID: 937492164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_144
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cfba7503e54ff46b07423a6cc280f6
+      internalID: 748849709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_145
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8061a51480d84fba77f7e947aab00
+      internalID: -13193718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_146
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b3ae64251480449864c19c966f08b
+      internalID: -1484919472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_147
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063a1f34ebda8545b9fec94ff8c9ed4
+      internalID: -1051258899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_148
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c41359184b1343a61830168765471
+      internalID: 1327292263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_149
+      rect:
+        serializedVersion: 2
+        x: 12020
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa48016bef4a34a85fcd7d412c598a
+      internalID: -1440039763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyAnimation_150
+      rect:
+        serializedVersion: 2
+        x: 13222
+        y: 0
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452085f3c700494fb1bb72c59f20130
+      internalID: 1064437381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonkeyAnimation_0: 396225634
+      MonkeyAnimation_1: 665571829
+      MonkeyAnimation_10: -1255196213
+      MonkeyAnimation_100: 458281718
+      MonkeyAnimation_101: 1253045483
+      MonkeyAnimation_102: -2123653220
+      MonkeyAnimation_103: 1722949110
+      MonkeyAnimation_104: 697938777
+      MonkeyAnimation_105: 862484119
+      MonkeyAnimation_106: 1214302041
+      MonkeyAnimation_107: -2143793597
+      MonkeyAnimation_108: 1845424824
+      MonkeyAnimation_109: 1683045737
+      MonkeyAnimation_11: -1125863916
+      MonkeyAnimation_110: -44540342
+      MonkeyAnimation_111: 589138942
+      MonkeyAnimation_112: -684445753
+      MonkeyAnimation_113: 118767451
+      MonkeyAnimation_114: -145135700
+      MonkeyAnimation_115: -712295290
+      MonkeyAnimation_116: -1185220780
+      MonkeyAnimation_117: 319806898
+      MonkeyAnimation_118: -848464095
+      MonkeyAnimation_119: -1322141147
+      MonkeyAnimation_120: 1673422659
+      MonkeyAnimation_121: -1427100609
+      MonkeyAnimation_122: 1170037162
+      MonkeyAnimation_123: -494345126
+      MonkeyAnimation_124: 1229819564
+      MonkeyAnimation_125: -1035688905
+      MonkeyAnimation_126: -1613159840
+      MonkeyAnimation_127: 1667480532
+      MonkeyAnimation_128: -1157091777
+      MonkeyAnimation_129: -163769655
+      MonkeyAnimation_13: 1964382789
+      MonkeyAnimation_130: 1672200037
+      MonkeyAnimation_131: -30157282
+      MonkeyAnimation_132: 1838118072
+      MonkeyAnimation_133: 799397462
+      MonkeyAnimation_134: -2004784421
+      MonkeyAnimation_135: -1590807684
+      MonkeyAnimation_136: 1287174936
+      MonkeyAnimation_137: -1157155798
+      MonkeyAnimation_138: -554509486
+      MonkeyAnimation_139: 1426111362
+      MonkeyAnimation_14: -1966955089
+      MonkeyAnimation_140: 1149003114
+      MonkeyAnimation_141: -211028687
+      MonkeyAnimation_142: -777131983
+      MonkeyAnimation_143: 937492164
+      MonkeyAnimation_144: 748849709
+      MonkeyAnimation_145: -13193718
+      MonkeyAnimation_146: -1484919472
+      MonkeyAnimation_147: -1051258899
+      MonkeyAnimation_148: 1327292263
+      MonkeyAnimation_149: -1440039763
+      MonkeyAnimation_15: -1230312634
+      MonkeyAnimation_150: 1064437381
+      MonkeyAnimation_151: -1110449918
+      MonkeyAnimation_152: -258737770
+      MonkeyAnimation_153: 1863599765
+      MonkeyAnimation_154: 946010868
+      MonkeyAnimation_155: -1401983552
+      MonkeyAnimation_156: -298974713
+      MonkeyAnimation_16: -894622559
+      MonkeyAnimation_17: 205358063
+      MonkeyAnimation_18: 1192337870
+      MonkeyAnimation_19: -956402781
+      MonkeyAnimation_2: 1674348705
+      MonkeyAnimation_20: 58219626
+      MonkeyAnimation_21: 1837097722
+      MonkeyAnimation_22: 239470582
+      MonkeyAnimation_23: -665654912
+      MonkeyAnimation_24: 272568066
+      MonkeyAnimation_26: -1171238415
+      MonkeyAnimation_27: -1853549875
+      MonkeyAnimation_28: -1733370204
+      MonkeyAnimation_29: 1350887372
+      MonkeyAnimation_3: -333219557
+      MonkeyAnimation_30: -800111381
+      MonkeyAnimation_31: -408643658
+      MonkeyAnimation_32: -738686038
+      MonkeyAnimation_33: 1375235624
+      MonkeyAnimation_34: 35506488
+      MonkeyAnimation_35: -427887309
+      MonkeyAnimation_36: -1006756662
+      MonkeyAnimation_37: 542607209
+      MonkeyAnimation_39: -1284886992
+      MonkeyAnimation_4: -1342625234
+      MonkeyAnimation_40: -1493374200
+      MonkeyAnimation_41: 85469472
+      MonkeyAnimation_42: -1315186303
+      MonkeyAnimation_43: -2115480162
+      MonkeyAnimation_44: -102333971
+      MonkeyAnimation_45: 1996618905
+      MonkeyAnimation_46: 1974893387
+      MonkeyAnimation_47: 32525572
+      MonkeyAnimation_48: 1019751423
+      MonkeyAnimation_49: 1556141464
+      MonkeyAnimation_5: -795351804
+      MonkeyAnimation_50: -359014134
+      MonkeyAnimation_52: -64088391
+      MonkeyAnimation_53: 781815445
+      MonkeyAnimation_54: 981804400
+      MonkeyAnimation_55: -297250999
+      MonkeyAnimation_56: 963361631
+      MonkeyAnimation_57: 1486607801
+      MonkeyAnimation_58: 1461504409
+      MonkeyAnimation_59: -664397082
+      MonkeyAnimation_6: -2137901200
+      MonkeyAnimation_60: 205887150
+      MonkeyAnimation_61: -1941627266
+      MonkeyAnimation_62: 424226315
+      MonkeyAnimation_63: -1913566041
+      MonkeyAnimation_65: 699345271
+      MonkeyAnimation_66: -1066856765
+      MonkeyAnimation_67: 1363205659
+      MonkeyAnimation_68: -2047488630
+      MonkeyAnimation_69: -835969417
+      MonkeyAnimation_7: 314686410
+      MonkeyAnimation_70: 1013822125
+      MonkeyAnimation_71: -295014611
+      MonkeyAnimation_72: 1040225893
+      MonkeyAnimation_73: 1401691614
+      MonkeyAnimation_74: -182296901
+      MonkeyAnimation_75: -1549403238
+      MonkeyAnimation_76: 384133626
+      MonkeyAnimation_78: -1984500658
+      MonkeyAnimation_79: 1788994321
+      MonkeyAnimation_8: 2102270401
+      MonkeyAnimation_80: -1090111225
+      MonkeyAnimation_81: -2017329444
+      MonkeyAnimation_82: -2059446742
+      MonkeyAnimation_83: 675147066
+      MonkeyAnimation_84: 294261104
+      MonkeyAnimation_85: 1251919243
+      MonkeyAnimation_86: 1321757630
+      MonkeyAnimation_87: 1874570491
+      MonkeyAnimation_88: -69795904
+      MonkeyAnimation_89: 1097923071
+      MonkeyAnimation_9: 1235843588
+      MonkeyAnimation_90: 914164889
+      MonkeyAnimation_91: -406996605
+      MonkeyAnimation_92: 1982201222
+      MonkeyAnimation_93: 440709410
+      MonkeyAnimation_94: 1929867523
+      MonkeyAnimation_95: 1232103967
+      MonkeyAnimation_96: 2029419972
+      MonkeyAnimation_97: -179172267
+      MonkeyAnimation_98: 1445700464
+      MonkeyAnimation_99: -981279448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

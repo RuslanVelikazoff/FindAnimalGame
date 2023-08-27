@@ -17,4 +17,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelHome.unity
     guid: 248c8f016332c724fb52825aa96adb99
+  - enabled: 1
+    path: Assets/Scenes/LevelAquarium.unity
+    guid: 6825ba13c237fe94fb18d2dacb735f05
+  - enabled: 1
+    path: Assets/Scenes/LevelVillage.unity
+    guid: cce22705cc3156d4c8c168dfbc7ffe55
+  - enabled: 1
+    path: Assets/Scenes/LevelPond.unity
+    guid: c5888972ebe8e7d4a9a4bd7a040927a2
+  - enabled: 1
+    path: Assets/Scenes/LevelBird.unity
+    guid: 69549de81ecd3544db33c68e9fc24f08
+  - enabled: 1
+    path: Assets/Scenes/LevelJungle.unity
+    guid: ec72ae064f3798143a6ca46734086d67
+  - enabled: 1
+    path: Assets/Scenes/LevelArctic.unity
+    guid: bbf4eb25c6c171c4da287b41733917c5
+  - enabled: 1
+    path: Assets/Scenes/LevelArc.unity
+    guid: c930fd32d65966c4195bb30171e6edfc
   m_configObjects: {}

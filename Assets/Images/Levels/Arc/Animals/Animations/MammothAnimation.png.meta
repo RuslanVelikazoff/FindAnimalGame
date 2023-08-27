@@ -1,0 +1,3457 @@
+fileFormatVersion: 2
+guid: 52a52044aaf414a47b63b7346b53cb59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MammothAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbe29a469e580499b46e6ee4e80cab
+      internalID: -217623694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42478ffbb28f6094d89ead19f6bf3bcd
+      internalID: -229198967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e333bfcf5b594ba57660ded826d0a
+      internalID: -690838469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56c110e88bbb44099f469bba929f91
+      internalID: 80616158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc8b0088ef61d4ca7dac7657ac5f1a
+      internalID: -1442281434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902075d6b5df9348911f9925def4a54
+      internalID: -2104592509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add1b58fd9ec634a9b37908023d5eef
+      internalID: -1504899558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b38e78687244439f7d76a43ebd2bc
+      internalID: -299900621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_151
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9632
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8ccb47eee15b4a8d34ca5473b67de
+      internalID: 1839259965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fcce368cce3e445b90f0f8af696e61
+      internalID: 565744392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bae40539df3844298ffbaaaa8dc6e6
+      internalID: 1059253531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43adaeb2ad2aa94d952f847818e6c7e
+      internalID: -848350527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310da2c4fc060a04dae0a095e353c71a
+      internalID: -1894852913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648ac5fb952b7a4d9b89b0ffff079d5
+      internalID: 129807348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9947c756c5dff645a1e26dc8ce83dff
+      internalID: 368867475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d39d65a459b7e8479fe9c59c416665c
+      internalID: 671445361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4244db1ea8971140a988353fcfddfb5
+      internalID: -1841868378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_152
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 9030
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c67042147b2e949982ae0c8f59e92c
+      internalID: -1057635933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce0f0e48d1058c4599be5cbdc74ac4d
+      internalID: 109469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8da7cdef20eb4b9e5b800d7ca7337
+      internalID: 343692008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8c134c3456cb40af20cffb7d4e0e8
+      internalID: 245999062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74725bb4c2dbc0a49bda7b95e5c06107
+      internalID: 844896020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea94ea13850b24499e322784c35637
+      internalID: -1922217050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c77ad83dec6c43b5a86019c503e78
+      internalID: 1788069517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27606c0e0835907408557e38b14896ed
+      internalID: -1198786495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb02d21da273f4f93e162bc4b79112
+      internalID: -950075138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_153
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 8428
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd4374b3e556e4b96a2471a9933b77
+      internalID: -683233975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dad8cc805186c40ae8d10861e1ba40
+      internalID: 1304670190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda40b7ca917bb74ca44a17704d98a8e
+      internalID: -1342971094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a21e6f947dad49854fe0e39eb924d
+      internalID: 1752696856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d9703613df0a4d866d12ac7e7ddc0
+      internalID: 580942753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88895ef6bf24c419240f82d60dd9a8
+      internalID: -395237505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac049e0e26fe34b983aede14677efa
+      internalID: -1553008125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c4345bcb5c204d9d217376ff09d4c
+      internalID: -2081841517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf23a7c5ee3d94e9e85e5ec7872574
+      internalID: 1825553316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_154
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7826
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d2b61103b9aad4ca9c2105a965f93a
+      internalID: 167263041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47332b109b7e30468a3f2e34020aecb
+      internalID: 837302211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e54246e3f607a47928223a1a5e7cbf
+      internalID: -1511841646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96eb801b81a44e4ea1cee3d693d2df3
+      internalID: -1607186956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefc306fe31eac4799ab3bb6bed5494
+      internalID: -501725643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01ba46e77fd6641901b156a7587d9f
+      internalID: 2069115098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce62fe7fdf46da439b90872095e40c9
+      internalID: 1727318970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74bf5a07c25db4b9c297f353d19886
+      internalID: 857744216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c75c9ec7dfeb242af1a8a7bcbf156f
+      internalID: 2098746193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_155
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 7224
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d452544053cacd9468e7cabe41af4e0c
+      internalID: 124528438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef0a519780d86644916616402ad6ee6
+      internalID: 872106502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4d49f9d809794198e36b91f6f0f12
+      internalID: -276462003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f614de12fbef64793eddafd53d4d7c
+      internalID: 359553325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd23da22925db45bf6fb586a7989bc
+      internalID: 865784410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befce0d08a09b5c498d5694524113407
+      internalID: -1337467736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285693c3ac963074d8f233d390125e0c
+      internalID: 119910000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5c90f42b118543843f71647706344
+      internalID: -1764578048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e078493b3559634a8bec4295c0c93e8
+      internalID: 1058440090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_156
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6622
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7e584c0d6b9d43b657554672a66c8
+      internalID: -526880012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781626c05816d94090e45af44c2800e
+      internalID: -1601923839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8bf2210bc04244b6135704e600542
+      internalID: 1946742102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1eea81387a4242b1ad3b004ad98c2
+      internalID: -208064298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957df8b6bbfebe408ed9993f2e6f640
+      internalID: -151641336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333df6620d42446478a6f1d88fa0756e
+      internalID: 1966626196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e2fde929f46b8499c58dbe77e3b065
+      internalID: -441224410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf19a667d90b7a4aa3ccbe9b776e3a1
+      internalID: 575548905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da93088af36e649851c685c3771013
+      internalID: -1715192817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_157
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 6020
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc530f0d39b67d429558d4c67cc3c7b
+      internalID: -1593508610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdfbb2e85ae2e49b8484b6870c9db0
+      internalID: 384272539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_64
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b98fee9454c7b4aab8321a044a3125
+      internalID: -658494396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee2b2743273a0469798d835413709f
+      internalID: 768853808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b398d91e8b82046ab83c42451ba7c0
+      internalID: 750844184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c9a3844ebf084b94cc535ef493018
+      internalID: -2112170089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5b72db355d434796f61fe2d8b4ac9
+      internalID: -927741577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d316df79f36635140b1d12f4774dd4fc
+      internalID: -2080087247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0a12feb157904fbac4f5f9d89d6e3
+      internalID: -1805004163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_158
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 5418
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b351173917e894189bb30917cde944
+      internalID: 883954473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930aa8b9c92873b46a87f082b1166d8a
+      internalID: -1758083524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cbf451db43bb548bb841071858764a
+      internalID: -980944012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b893b44162a2bb4aa944a4b527346fb
+      internalID: 1596994304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23f656d955b974caa2ad0ea2ae85f6
+      internalID: -446961506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8b3ae9fa37884ba72498536321d1b
+      internalID: -54511037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_77
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f021f3da11570d4f91adbd4010b16ca
+      internalID: -194617874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684e03fac01d644bab5aab34b54d83a
+      internalID: -670768987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b614ee236581af4bb6cb2d7a0e4ddf9
+      internalID: -1357762181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_159
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4816
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a555f9dda3fa7489225ed215df4c32
+      internalID: -414866757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c7e867118e7146a0432a57915549a
+      internalID: 180956299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392cfbf78499704890af8b4349aa338
+      internalID: -1702543903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24d0a7603c3a44981dbac7cecfea27
+      internalID: -807068906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e4ebd8e8ae04d44a3712afab4d467f
+      internalID: 241788102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc79496c17a18d46b6e1a09a852cc83
+      internalID: 679586069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd780db138e36d7479b9cda22c599908
+      internalID: 650667929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885898344247274fb2d32cf568a05af
+      internalID: 69006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8cd6cc7729d9e418c15a73b2a9f7aa
+      internalID: 973362394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_160
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 4214
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f889ec512028fba4fb11e60519032de5
+      internalID: 1763648219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb186bffcdec4c043b3bb9aaed701d12
+      internalID: -935416109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe297a0e6a2c84ba8e5d0af7e5c379
+      internalID: -703358806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac847b34077744aad1309f3c5349d0
+      internalID: -1223921969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6e299d033bf9342ba2c6ca47c839b6
+      internalID: -1233373039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf5da55f22998c44b25648827e4425c
+      internalID: 1443114637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e728230779a5b46967f89a89d5d8b8
+      internalID: 1552957432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c8d6fc9699b474eb505431a59d7bf5
+      internalID: -451500406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af3876018702443a5c338276dee5ef
+      internalID: 2124276914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_161
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3612
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e6daad27a25549a75c26c336cfc06
+      internalID: 2048754497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00fc3fd2229b74db18a89ccbad078e
+      internalID: 379558051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81f5fd7892f5d499c4d35f9191eaa0
+      internalID: -751348173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7d8439a0081040b150ddf3d383e00
+      internalID: -795777838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060efc2f521f63c46824dbeb5a62828c
+      internalID: -1951277954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc389361a16f8f41a794fcd16b33b59
+      internalID: -1890232684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be02260a798f841b9b8e8a74d691ef
+      internalID: 1454985810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8abde4c9a41a4388ee17cc3778d41
+      internalID: -1789903191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d82c69cce77ee408fc80570d332ee7
+      internalID: -1108264340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_162
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 3010
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8a13a1d063274999695fb75fa53b8
+      internalID: 1486986508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030c646d80ae2b48b9b6895aedabfae
+      internalID: 1093463608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebe9dec8eb7a04187a4df534e45dac
+      internalID: 625026712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a55c82343e3748a0fd40036dabe95
+      internalID: -1817862499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a36a79eaad82549b2ad59ccbe51cf5
+      internalID: 692211810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769011be9cc47d43bafe19d1a36c982
+      internalID: 440514688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833ea03f2ae96a4eb0684b5d4306a07
+      internalID: 209708101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf2dacaa1ac294b9523fa5ea14b8f5
+      internalID: -248408228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84adbde28c2f1714191ab1e97bdbf1b3
+      internalID: -216544118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_163
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 2408
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f34958a739634fb6dd97b1a601c90
+      internalID: -2050141332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421cc978773cd9438f4711e35b2a25c
+      internalID: -2014887414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964ea69abb48efe4580e182bf6a2a106
+      internalID: -1698215144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28df7492df77643a00e838284ed7b3
+      internalID: 637456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec803cbe2038a409e77d76930a80b4
+      internalID: 1126217247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630204d6c149f7f4e85777532fdcfb20
+      internalID: 2128851926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19738375a2fc9d4bb53d7355d9a5745
+      internalID: 1198476569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69060b8525cc1d042901c77f791cc700
+      internalID: 362667745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b868b8520589fa4f8ea93c3a85167d8
+      internalID: -480613458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_164
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1806
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f320dfe56cebd745a1ee9e022901673
+      internalID: 12742126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e347e9ece03de44f9c438167661b1fa
+      internalID: -1374124248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383fdc0aaae34f74fb946c804fbb94a3
+      internalID: 561143530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc8932952d0c84d94fa593dc955c56
+      internalID: -1780733957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5177fa2b687d4b8b39f1b6d5f1d28
+      internalID: 967039052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22093e42cd5270746b77977a4d0f584d
+      internalID: -1192884372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f53cca45f2f47418957ea87ac70992
+      internalID: 53320846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98c6ff108b4734cba17b6fb9c98f22
+      internalID: 1905368074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853c390fcd8be7438269185bf5e2c78
+      internalID: -2006535682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_165
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 1204
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970f3f114ae06e4fb4799ebf9e651ca
+      internalID: 1820687886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96c1a47aab8f14bbafe556b8d791c2
+      internalID: -510153355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_136
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff7a9cc4a164c4290456c70b8d8d1a
+      internalID: -344396838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_137
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ab71a03fdcd3458fe6f200ccd6520
+      internalID: 2113495554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_138
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06989972a3793964c8e0eaecf57e6645
+      internalID: 1684124761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_139
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4949d4af3a779d40b96107b1f5957f4
+      internalID: 1931306727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_140
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0fdeeb6d82a841b6f910892014873
+      internalID: 1063148586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_141
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144b661800119a49a32ed613d968942
+      internalID: -395037237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_142
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 602
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac5d2a1adec52b45998e3da1e29f732
+      internalID: -2070402406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0204ff7eb6c744b7a8a37b269109a
+      internalID: -1432945252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_144
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b24faa932fdb1f418a657bc787f7dde
+      internalID: -53198689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_145
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38bb94b954d19241bccfec952a9bc37
+      internalID: 2084977349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_146
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754aeaee411dc7f478af6b6bc04a02a8
+      internalID: -806158744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_147
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9961d0b52cff44d9a74437a2b85444
+      internalID: -472372481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_148
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc656a64832804b9c04b0b30f05f96
+      internalID: -184132160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_149
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1daba3e545b6e439770e5d94f02949
+      internalID: -838590178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MammothAnimation_150
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 1202
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ce77965e1fac441aa60b37bf61419c
+      internalID: 77462062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MammothAnimation_0: -217623694
+      MammothAnimation_1: -229198967
+      MammothAnimation_10: 1059253531
+      MammothAnimation_100: -751348173
+      MammothAnimation_101: -795777838
+      MammothAnimation_102: -1951277954
+      MammothAnimation_103: -1890232684
+      MammothAnimation_104: 1454985810
+      MammothAnimation_105: -1789903191
+      MammothAnimation_106: -1108264340
+      MammothAnimation_108: 1093463608
+      MammothAnimation_109: 625026712
+      MammothAnimation_11: -848350527
+      MammothAnimation_110: -1817862499
+      MammothAnimation_111: 692211810
+      MammothAnimation_112: 440514688
+      MammothAnimation_113: 209708101
+      MammothAnimation_114: -248408228
+      MammothAnimation_115: -216544118
+      MammothAnimation_117: -2014887414
+      MammothAnimation_118: -1698215144
+      MammothAnimation_119: 637456755
+      MammothAnimation_12: -1894852913
+      MammothAnimation_120: 1126217247
+      MammothAnimation_121: 2128851926
+      MammothAnimation_122: 1198476569
+      MammothAnimation_123: 362667745
+      MammothAnimation_124: -480613458
+      MammothAnimation_126: -1374124248
+      MammothAnimation_127: 561143530
+      MammothAnimation_128: -1780733957
+      MammothAnimation_129: 967039052
+      MammothAnimation_13: 129807348
+      MammothAnimation_130: -1192884372
+      MammothAnimation_131: 53320846
+      MammothAnimation_132: 1905368074
+      MammothAnimation_133: -2006535682
+      MammothAnimation_135: -510153355
+      MammothAnimation_136: -344396838
+      MammothAnimation_137: 2113495554
+      MammothAnimation_138: 1684124761
+      MammothAnimation_139: 1931306727
+      MammothAnimation_14: 368867475
+      MammothAnimation_140: 1063148586
+      MammothAnimation_141: -395037237
+      MammothAnimation_142: -2070402406
+      MammothAnimation_143: -1432945252
+      MammothAnimation_144: -53198689
+      MammothAnimation_145: 2084977349
+      MammothAnimation_146: -806158744
+      MammothAnimation_147: -472372481
+      MammothAnimation_148: -184132160
+      MammothAnimation_149: -838590178
+      MammothAnimation_15: 671445361
+      MammothAnimation_150: 77462062
+      MammothAnimation_151: 1839259965
+      MammothAnimation_152: -1057635933
+      MammothAnimation_153: -683233975
+      MammothAnimation_154: 167263041
+      MammothAnimation_155: 124528438
+      MammothAnimation_156: -526880012
+      MammothAnimation_157: -1593508610
+      MammothAnimation_158: 883954473
+      MammothAnimation_159: -414866757
+      MammothAnimation_16: -1841868378
+      MammothAnimation_160: 1763648219
+      MammothAnimation_161: 2048754497
+      MammothAnimation_162: 1486986508
+      MammothAnimation_163: -2050141332
+      MammothAnimation_164: 12742126
+      MammothAnimation_165: 1820687886
+      MammothAnimation_18: 109469
+      MammothAnimation_19: 343692008
+      MammothAnimation_2: -690838469
+      MammothAnimation_20: 245999062
+      MammothAnimation_21: 844896020
+      MammothAnimation_22: -1922217050
+      MammothAnimation_23: 1788069517
+      MammothAnimation_24: -1198786495
+      MammothAnimation_25: -950075138
+      MammothAnimation_27: 1304670190
+      MammothAnimation_28: -1342971094
+      MammothAnimation_29: 1752696856
+      MammothAnimation_3: 80616158
+      MammothAnimation_30: 580942753
+      MammothAnimation_31: -395237505
+      MammothAnimation_32: -1553008125
+      MammothAnimation_33: -2081841517
+      MammothAnimation_34: 1825553316
+      MammothAnimation_36: 837302211
+      MammothAnimation_37: -1511841646
+      MammothAnimation_38: -1607186956
+      MammothAnimation_39: -501725643
+      MammothAnimation_4: -1442281434
+      MammothAnimation_40: 2069115098
+      MammothAnimation_41: 1727318970
+      MammothAnimation_42: 857744216
+      MammothAnimation_43: 2098746193
+      MammothAnimation_45: 872106502
+      MammothAnimation_46: -276462003
+      MammothAnimation_47: 359553325
+      MammothAnimation_48: 865784410
+      MammothAnimation_49: -1337467736
+      MammothAnimation_5: -2104592509
+      MammothAnimation_50: 119910000
+      MammothAnimation_51: -1764578048
+      MammothAnimation_52: 1058440090
+      MammothAnimation_54: -1601923839
+      MammothAnimation_55: 1946742102
+      MammothAnimation_56: -208064298
+      MammothAnimation_57: -151641336
+      MammothAnimation_58: 1966626196
+      MammothAnimation_59: -441224410
+      MammothAnimation_6: -1504899558
+      MammothAnimation_60: 575548905
+      MammothAnimation_61: -1715192817
+      MammothAnimation_63: 384272539
+      MammothAnimation_64: -658494396
+      MammothAnimation_65: 768853808
+      MammothAnimation_66: 750844184
+      MammothAnimation_67: -2112170089
+      MammothAnimation_68: -927741577
+      MammothAnimation_69: -2080087247
+      MammothAnimation_7: -299900621
+      MammothAnimation_70: -1805004163
+      MammothAnimation_72: -1758083524
+      MammothAnimation_73: -980944012
+      MammothAnimation_74: 1596994304
+      MammothAnimation_75: -446961506
+      MammothAnimation_76: -54511037
+      MammothAnimation_77: -194617874
+      MammothAnimation_78: -670768987
+      MammothAnimation_79: -1357762181
+      MammothAnimation_81: 180956299
+      MammothAnimation_82: -1702543903
+      MammothAnimation_83: -807068906
+      MammothAnimation_84: 241788102
+      MammothAnimation_85: 679586069
+      MammothAnimation_86: 650667929
+      MammothAnimation_87: 69006744
+      MammothAnimation_88: 973362394
+      MammothAnimation_9: 565744392
+      MammothAnimation_90: -935416109
+      MammothAnimation_91: -703358806
+      MammothAnimation_92: -1223921969
+      MammothAnimation_93: -1233373039
+      MammothAnimation_94: 1443114637
+      MammothAnimation_95: 1552957432
+      MammothAnimation_96: -451500406
+      MammothAnimation_97: 2124276914
+      MammothAnimation_99: 379558051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

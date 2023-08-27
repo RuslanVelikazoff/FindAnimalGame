@@ -7417,6 +7417,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[0].name
+      value: Music
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[1].name
+      value: Forest
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[2].name
+      value: Bear
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[0].volume
+      value: 0.391
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[1].volume
+      value: 0.681
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529308937236847679, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
+      propertyPath: sounds.Array.data[2].volume
+      value: 0.296
+      objectReference: {fileID: 0}
     - target: {fileID: 5125111058715404988, guid: f90561b3b454a4ae39b1882752000bc9, type: 3}
       propertyPath: m_RootOrder
       value: 1

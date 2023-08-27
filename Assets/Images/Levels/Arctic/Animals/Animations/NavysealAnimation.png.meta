@@ -1,0 +1,3436 @@
+fileFormatVersion: 2
+guid: 7b2da862eebd35a47b5874d88ff9b530
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NavysealAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0868895c6937d45ac4960760cb2bdf
+      internalID: 325283354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef32d0065544d047954065da9a6440e
+      internalID: -1870352176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cace6229941aba41abee9a45035e742
+      internalID: -2064139868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfb4686f419c2542abf9124705583d6
+      internalID: -2122674951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ddffa14ea88dd419d22e20f3fc5caa
+      internalID: -389248135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f90b2de99bb204b8ec7b8af91123b6
+      internalID: -2076444538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745db69e9d10e94a9fc72577027cf7d
+      internalID: 140142223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200ee581e1b502439502ef1d718eeca
+      internalID: 37506992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9544b7d6469614a9380e38facccbd6
+      internalID: 1653177496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c68ec9a06d3654d8e9f75dfb9a0cf1
+      internalID: 1072296860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17529742021e1e847b6adc3664092d39
+      internalID: -1962251344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cbd574495c5424ebfad9d8f4cb7894
+      internalID: -1171209926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_151
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 11022
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7fb2b3794dee547862a264e53d3980
+      internalID: 2146199957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b03e79e94d8043bc7cf288168f356
+      internalID: -1713851814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fea4c825eaaf740a012a18fc42a591
+      internalID: -446403022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660fe370ccacddb4897c6c8cb2ee7759
+      internalID: -898711215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea6882e2d13f442a27010f4bbef27f
+      internalID: -120437948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac8ecd953658640a36623666cc3ed0
+      internalID: 809479579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93603e61589e8d4cbcda9ecb88724c5
+      internalID: -952393516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445914d3d6e4704fa33903246bd120b
+      internalID: -1230921098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8c1988c4585441a8d67672c3af191
+      internalID: -1714973451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43510a9489ada664cb1f3b143770bef6
+      internalID: 324525699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0eb3c684d416645a5230ccf168b48d
+      internalID: -284812893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199bd8f0d9c6de641a85d020827f9937
+      internalID: -418575419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91f4ac1a8ff3b4799c98e0d78f305f
+      internalID: 1111259913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_152
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 10020
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a58bd72e5a41544e9aa10468471cf49
+      internalID: 696655880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add45abd6a7b29e44b838008e212ef6b
+      internalID: 1615089534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a645151ca42a4e917bb0e3ee0e3ac
+      internalID: -362591762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b894c6b26eeae4295a737fcaba3f34
+      internalID: 1389596711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857422d3489dc5a49a573314ba170b5c
+      internalID: -1297353718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b30a74040a714e9980a165a4996b1
+      internalID: 106389028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d842f5e39a856488e5ee61434531a6
+      internalID: 587247524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d64bac8e93eb4548a5e4a37d260912e
+      internalID: 257317087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4a0d866832504c8c0ebeb17f3039d
+      internalID: 1781469269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7228b6e4669b94aaba0205014798ac
+      internalID: 751874978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73846895d8d8ea14eb45842709bb9928
+      internalID: 1077698656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102f2a7ecab18fb48ac79d42dfc3ba88
+      internalID: 1845607868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee30d70b9a6b8409db68587bc9267c
+      internalID: 1042253782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_153
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 9018
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762581c0c3a93a47bd222b3ceea8df5
+      internalID: 968792050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5bdfff8a606224599b3493203fdd60
+      internalID: -189651366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47205f0da0cdd4b938dcbfb05718ee
+      internalID: 630709530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc965312b2e3b0b46b62ee0cae111406
+      internalID: -793176244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f41c890b8a5e440849dd0d508a1b1c
+      internalID: 2023294122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3641694ebb486a54abc8cfc623e41402
+      internalID: -1417560564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e32b675db0c5429e3e72d77622299
+      internalID: 1085879859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef6ac368fd74642a10c87aa60019ab
+      internalID: 1480084119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d4d9f04f94d048829cebf070aa0ce
+      internalID: 2091264902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04230d6c94d09cf48a75a795c68cc087
+      internalID: -474527147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9c0dce9afead459e0e4e568e5f126
+      internalID: 937271509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fbd52faa2157140ba9a6f953b633e4
+      internalID: -1887024579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64594cad8fdc5c847a2b1fa3bb91ac3d
+      internalID: -24668226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_154
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 8016
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e12b5e2cfeed4483366aab1ca794f
+      internalID: 861475791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6af264b78f1d9468ef080e49247269
+      internalID: 410762115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968dd7109c3095e418e141321ccc1b8a
+      internalID: 1499711816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c27ba8c8e517844863cbd583b21f10
+      internalID: 101971367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609ecb52e96524418fce45fbf10fe32
+      internalID: 1380149595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a32b2f0c6d6d49bcd3d74a3425e64
+      internalID: 632439047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf672bb9a4b96b44a50251678fd1e78
+      internalID: 1658695166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f95753b9eec144d85e61de2a259745
+      internalID: -151924901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb4c1fea1cfefa40acba4f30dac72a4
+      internalID: 818615336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e735ec618af3e4dbd791f20e63f551
+      internalID: -2065898204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c1fef7ea6dd44fa3a5a850ef1082d
+      internalID: 761728374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87551f82584cb8c4883ab1936447a3d4
+      internalID: -108809477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebee4950f2a47540815ca1f64218154
+      internalID: -588326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_155
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 7014
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705fdc89aad571c488ef43559f1b5f0f
+      internalID: 362786376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8322877d58d82a4eb3893ee336ce1f6
+      internalID: 1298575723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ea8d8e0bc7144e92c5407c08ffd8d
+      internalID: 453432183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49cff5f8f327c45839c5b3d3bd3f48
+      internalID: 1974201146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb8b99398e51a94bb3db6da2ff748d7
+      internalID: 705707266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450e7b2e486b7c4b98951a3764cf829
+      internalID: 976676433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efe692bcdcc1144bee0c4cbb0d0b24
+      internalID: 948626439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc04560693d4742b170a97fe151616
+      internalID: -1502743330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ead4d260d52674ba01d75e24c57080
+      internalID: -1701172233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc272050fdcca64d9f0877c68203fc4
+      internalID: 1544098010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2f565577154749871c51a06521562
+      internalID: 1577308558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b4e693338e014684585915233a8f2
+      internalID: -799347579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5abe61b44a31a4fa0d95833c0e2b55
+      internalID: -1080593640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_156
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 6012
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ffe72c22abb64b8fb9a0bc91edac3
+      internalID: -809869314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2715a35cf89d141848b732a520a9da
+      internalID: 653412402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540963b6b7236084ebb50d789cd90f17
+      internalID: -859360299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_80
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5c0feff443904fb6bf7eb81c58757
+      internalID: -1679530193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f322c07dda0504891b95e50e4cb810
+      internalID: 784634009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aeee98444d41f4a814b3cecc715903
+      internalID: -2102857567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8561180022374742a37621918fe2743
+      internalID: 1869210711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47265e288cbc7c547b5e7143a8c40fad
+      internalID: -57520635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb90e6d55da9f49be8aa7cc28966ac
+      internalID: 1581428795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb5e88e9415a5429b4663bf0e779e0
+      internalID: -240144868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cca8ae54eec1f4c9d78e16d15ca4a4
+      internalID: 675429065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e98cdf2f9a5b41840e0af08c23184
+      internalID: -868671543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_89
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 5010
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f20d1dc27a66843a10fb9100285c79
+      internalID: 1915926907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09329a1e541874fa3fcbd15e8d9ebd
+      internalID: -1636991974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbec78a926b1443923e24a1e1f1eb2
+      internalID: -620644783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94357f97e7a170049b4a18fdb33304de
+      internalID: -645514171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59caccc1cfb23964da6bdd493b6d381f
+      internalID: -1744965017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a637c714d1cb003459ffa0a582408269
+      internalID: -1244644858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249706d158663140a56e20acf35937e
+      internalID: 828862225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e842b7d0dc602469e1b9151dda40b0
+      internalID: 755352623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_98
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9bd3e5bcea3de4c89cb8ded02d0186
+      internalID: -1148276538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e15afd55753149add63778966bce2
+      internalID: -862603256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cbf18979543d4aafdcf30dbf739db
+      internalID: 714857635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb255ab5cfd29e4ea771501d8926428
+      internalID: 1667489516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 4008
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bcb5d5c64cb8640ba4ce491ef1f455
+      internalID: 335096702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3348180a1aace7648896c580ceeaf67f
+      internalID: 201139922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ca5603b03b5fa4d96e0a494e339e7d
+      internalID: -2096466891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8fc85ca55b304ba8ef80b02af1fe9
+      internalID: 1315160079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb0466019da294380b9260906efcd1
+      internalID: 1203894227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_107
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434cb27180f75a44ea906a0a467cd963
+      internalID: -2024579954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07bdfb24effb454a975c4b74def1d49
+      internalID: 1195002499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d0c1ae527fd61429d5a9c6542f9885
+      internalID: -2046772490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f1568602189444a48f7351d0dc18c
+      internalID: -1516139453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984111cdecec964ca85af81776e1254
+      internalID: -2122349673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56775fd77f764df44a260016bd3d4ac5
+      internalID: 1075686761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40fc92037d2f5342a1228a2e6963efc
+      internalID: 484019640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 3006
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec852e6b8632e42a359a9e846783e9
+      internalID: 1726732873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fdade4434d98459e7c7d03bc597d4
+      internalID: -1669471430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_116
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fdb3c27529ef749a968e08045b0e25
+      internalID: 1097961198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3c679df6a47324d82d65d4f545fe5b
+      internalID: 1654505164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badaa23997479fe469d342b414b0d3c9
+      internalID: -684841111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436359b798b388438847f07cc6546e7
+      internalID: 1658018424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6bdc86bcb6734ca81237de0d6e9b9
+      internalID: -2079966878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591db9a16223644d9cd4d54faa95dc7
+      internalID: 1197043716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6e360ad8cc0d439fbd8b23cb43a64
+      internalID: -1229221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ede0363527ec4b990f3c5adddb70a
+      internalID: 517013053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c3770c1b983a4e9b791a74afca47b
+      internalID: -1097952184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_125
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c9973da1a8de49b033fa40639b835
+      internalID: 15644931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 2004
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5580a4d16b1f448b7af8dbc516dbe0
+      internalID: 620135689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51abd9f98376464cb5c1ea7a410ffc0
+      internalID: -1709843050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d76d974d80d34287d0ce5423c58f5
+      internalID: -860426849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f40cee92e8f66e4ca8f3cfd2c880770
+      internalID: 2056522589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962086555e3ccf4d95140e5cae94a61
+      internalID: -195632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77231444dbabd4c919dcc1a18f0d74
+      internalID: 1960739292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd24f91537818e24eaa09f52aa294ee8
+      internalID: 362549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e28ebac63272e49a809651dfe283ac
+      internalID: 1038983797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_134
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3d04e1b134ea46ad507f64fec76cc
+      internalID: 1511315829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_135
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa0252190319d4fab6c92eaf0c5025
+      internalID: -1762249757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_136
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1339d354908c94fb4320c2498c0cfe
+      internalID: -638731687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_137
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8edf4cbdc9e4674685e6d1038577a4e
+      internalID: 1590357606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_138
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 1002
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f196e1e2d28c4f98f2f7eef4d2a7a
+      internalID: -1757950208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0a46a47b6e2a4f9cecbab0cbd4e11
+      internalID: -35676373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_140
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d68d6274d63a4eaece485c6937b6b
+      internalID: -127466565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_141
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5beb2039d380bd4781e2a3f98291b2f
+      internalID: -903453006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_142
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e8405f87bbea45b162572d4623d20
+      internalID: -517387991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_143
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440af6ba4c7f4348bbcbb693e762f93
+      internalID: 1361007076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_144
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d7fa8c64adff54ba3b7632bb1fe446
+      internalID: -35665022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_145
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba94ffce6a549643b16d26d7f2f3ac7
+      internalID: -127228346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_146
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345e5c449101014b95ba91d66d10443
+      internalID: -434708786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_147
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb58db800ba59f4a9b926278e077c63
+      internalID: -1317398784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_148
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c1c731abc9fc741973988b6ee15e5a
+      internalID: 1251669903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_149
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ce34a5d452644ca6d1ebd16845c9f
+      internalID: -789583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavysealAnimation_150
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 0
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477753bc956d498458d13dae6cffb5d3
+      internalID: -1204429270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NavysealAnimation_0: 325283354
+      NavysealAnimation_1: -1870352176
+      NavysealAnimation_10: -1962251344
+      NavysealAnimation_100: 714857635
+      NavysealAnimation_101: 1667489516
+      NavysealAnimation_102: 335096702
+      NavysealAnimation_103: 201139922
+      NavysealAnimation_104: -2096466891
+      NavysealAnimation_105: 1315160079
+      NavysealAnimation_106: 1203894227
+      NavysealAnimation_107: -2024579954
+      NavysealAnimation_108: 1195002499
+      NavysealAnimation_109: -2046772490
+      NavysealAnimation_11: -1171209926
+      NavysealAnimation_110: -1516139453
+      NavysealAnimation_111: -2122349673
+      NavysealAnimation_112: 1075686761
+      NavysealAnimation_113: 484019640
+      NavysealAnimation_114: 1726732873
+      NavysealAnimation_115: -1669471430
+      NavysealAnimation_116: 1097961198
+      NavysealAnimation_117: 1654505164
+      NavysealAnimation_118: -684841111
+      NavysealAnimation_119: 1658018424
+      NavysealAnimation_120: -2079966878
+      NavysealAnimation_121: 1197043716
+      NavysealAnimation_122: -1229221534
+      NavysealAnimation_123: 517013053
+      NavysealAnimation_124: -1097952184
+      NavysealAnimation_125: 15644931
+      NavysealAnimation_126: 620135689
+      NavysealAnimation_127: -1709843050
+      NavysealAnimation_128: -860426849
+      NavysealAnimation_129: 2056522589
+      NavysealAnimation_13: -1713851814
+      NavysealAnimation_130: -195632242
+      NavysealAnimation_131: 1960739292
+      NavysealAnimation_132: 362549632
+      NavysealAnimation_133: 1038983797
+      NavysealAnimation_134: 1511315829
+      NavysealAnimation_135: -1762249757
+      NavysealAnimation_136: -638731687
+      NavysealAnimation_137: 1590357606
+      NavysealAnimation_138: -1757950208
+      NavysealAnimation_139: -35676373
+      NavysealAnimation_14: -446403022
+      NavysealAnimation_140: -127466565
+      NavysealAnimation_141: -903453006
+      NavysealAnimation_142: -517387991
+      NavysealAnimation_143: 1361007076
+      NavysealAnimation_144: -35665022
+      NavysealAnimation_145: -127228346
+      NavysealAnimation_146: -434708786
+      NavysealAnimation_147: -1317398784
+      NavysealAnimation_148: 1251669903
+      NavysealAnimation_149: -789583832
+      NavysealAnimation_15: -898711215
+      NavysealAnimation_150: -1204429270
+      NavysealAnimation_151: 2146199957
+      NavysealAnimation_152: 696655880
+      NavysealAnimation_153: 968792050
+      NavysealAnimation_154: 861475791
+      NavysealAnimation_155: 362786376
+      NavysealAnimation_156: -809869314
+      NavysealAnimation_16: -120437948
+      NavysealAnimation_17: 809479579
+      NavysealAnimation_18: -952393516
+      NavysealAnimation_19: -1230921098
+      NavysealAnimation_2: -2064139868
+      NavysealAnimation_20: -1714973451
+      NavysealAnimation_21: 324525699
+      NavysealAnimation_22: -284812893
+      NavysealAnimation_23: -418575419
+      NavysealAnimation_24: 1111259913
+      NavysealAnimation_26: 1615089534
+      NavysealAnimation_27: -362591762
+      NavysealAnimation_28: 1389596711
+      NavysealAnimation_29: -1297353718
+      NavysealAnimation_3: -2122674951
+      NavysealAnimation_30: 106389028
+      NavysealAnimation_31: 587247524
+      NavysealAnimation_32: 257317087
+      NavysealAnimation_33: 1781469269
+      NavysealAnimation_34: 751874978
+      NavysealAnimation_35: 1077698656
+      NavysealAnimation_36: 1845607868
+      NavysealAnimation_37: 1042253782
+      NavysealAnimation_39: -189651366
+      NavysealAnimation_4: -389248135
+      NavysealAnimation_40: 630709530
+      NavysealAnimation_41: -793176244
+      NavysealAnimation_42: 2023294122
+      NavysealAnimation_43: -1417560564
+      NavysealAnimation_44: 1085879859
+      NavysealAnimation_45: 1480084119
+      NavysealAnimation_46: 2091264902
+      NavysealAnimation_47: -474527147
+      NavysealAnimation_48: 937271509
+      NavysealAnimation_49: -1887024579
+      NavysealAnimation_5: -2076444538
+      NavysealAnimation_50: -24668226
+      NavysealAnimation_52: 410762115
+      NavysealAnimation_53: 1499711816
+      NavysealAnimation_54: 101971367
+      NavysealAnimation_55: 1380149595
+      NavysealAnimation_56: 632439047
+      NavysealAnimation_57: 1658695166
+      NavysealAnimation_58: -151924901
+      NavysealAnimation_59: 818615336
+      NavysealAnimation_6: 140142223
+      NavysealAnimation_60: -2065898204
+      NavysealAnimation_61: 761728374
+      NavysealAnimation_62: -108809477
+      NavysealAnimation_63: -588326429
+      NavysealAnimation_65: 1298575723
+      NavysealAnimation_66: 453432183
+      NavysealAnimation_67: 1974201146
+      NavysealAnimation_68: 705707266
+      NavysealAnimation_69: 976676433
+      NavysealAnimation_7: 37506992
+      NavysealAnimation_70: 948626439
+      NavysealAnimation_71: -1502743330
+      NavysealAnimation_72: -1701172233
+      NavysealAnimation_73: 1544098010
+      NavysealAnimation_74: 1577308558
+      NavysealAnimation_75: -799347579
+      NavysealAnimation_76: -1080593640
+      NavysealAnimation_78: 653412402
+      NavysealAnimation_79: -859360299
+      NavysealAnimation_8: 1653177496
+      NavysealAnimation_80: -1679530193
+      NavysealAnimation_81: 784634009
+      NavysealAnimation_82: -2102857567
+      NavysealAnimation_83: 1869210711
+      NavysealAnimation_84: -57520635
+      NavysealAnimation_85: 1581428795
+      NavysealAnimation_86: -240144868
+      NavysealAnimation_87: 675429065
+      NavysealAnimation_88: -868671543
+      NavysealAnimation_89: 1915926907
+      NavysealAnimation_9: 1072296860
+      NavysealAnimation_90: -362615981
+      NavysealAnimation_91: -1636991974
+      NavysealAnimation_92: -620644783
+      NavysealAnimation_93: -645514171
+      NavysealAnimation_94: -1744965017
+      NavysealAnimation_95: -1244644858
+      NavysealAnimation_96: 828862225
+      NavysealAnimation_97: 755352623
+      NavysealAnimation_98: -1148276538
+      NavysealAnimation_99: -862603256
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

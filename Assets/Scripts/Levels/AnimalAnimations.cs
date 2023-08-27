@@ -12,8 +12,7 @@ namespace Animation
         {
             animator = gameObject.GetComponent<Animator>();
         }
-
-        //TODO: зебра
+        
         public void StartAnimation(float duration) //Добавить иф елсе с именем животного
         {
             StartCoroutine(StartAnimationCO(duration));
