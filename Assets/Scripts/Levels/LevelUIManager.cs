@@ -76,6 +76,7 @@ namespace UI
                 exitLevelButton.onClick.RemoveAllListeners();
                 exitLevelButton.onClick.AddListener(() =>
                 {
+                    levelManager.StopSound();
                     SceneManager.LoadScene(0);
                 });
             }
@@ -85,6 +86,7 @@ namespace UI
                 nextLevelButton.onClick.RemoveAllListeners();
                 nextLevelButton.onClick.AddListener(() =>
                 {
+                    levelManager.StopSound();
                     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
                 });
             }

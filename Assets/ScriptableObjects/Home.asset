@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f8b906c3382a20498a1e0972b7c3996, type: 3}
   m_Name: Home
   m_EditorClassIdentifier: 
+  levelName: Home
   animalName:
   - "\u0445\u043E\u043C\u044F\u043A"
   - "\u043A\u043E\u0442"

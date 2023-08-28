@@ -8,7 +8,7 @@ namespace Loader
         [SerializeField] private UI.MenuUIManager menuUIManager;
         [SerializeField] private UI.SettingsUIManager settingsUIManager;
         [SerializeField] private UI.ParentalControlUIManager parentalControlUIManager;
-        [SerializeField] private FullGameButton fullGameButton;
+        [SerializeField] private Animation.FullGameButton fullGameButton;
 
         [Space(7)]
 
@@ -18,6 +18,7 @@ namespace Loader
         void Start()
         {
             data.Initialize();
+            AudioManager.AudioManager.Instance.Play("Theme");
             settingsUIManager.Initialize();
             menuUIManager.Initialize(data);
             parentalControlUIManager.Initialize(data, menuUIManager);

@@ -18,55 +18,16 @@ namespace UI
         
         public void Initialize()
         {
+            AudioManager.AudioManager.Instance.InitializeVolume(soundVolumeSlider, musicVolumeSlider, environmentVolumeSlider);
+
             SettingsButtonFunc();
-            SetSlidersValue();
 
             Debug.Log("SettingsUI initialized");
         }
 
         private void Update()
         {
-            UpdateVolume();
-        }
-
-        private void SetSlidersValue()
-        {
-            musicVolumeSlider.value = PlayerPrefs.GetFloat("MusicVolume");
-
-            soundVolumeSlider.value = PlayerPrefs.GetFloat("SoundVolume");
-
-            musicVolumeSlider.value = PlayerPrefs.GetFloat("EnvironmentVolume");
-        }
-
-        private void UpdateVolume()
-        {
-            PlayerPrefs.SetFloat("MusicVolume", musicVolumeSlider.value);
-            PlayerPrefs.SetFloat("SoundVolume", soundVolumeSlider.value);
-            PlayerPrefs.SetFloat("EnvironmentVolume", environmentVolumeSlider.value);
-
-            foreach (var s in AudioManager.AudioManager.Instance.sounds)
-            {
-                s.source.volume = s.volume = PlayerPrefs.GetFloat("SoundVolume");
-
-                if (s.name == "Music")
-                {
-                    s.source.volume = s.volume = PlayerPrefs.GetFloat("MusicVolume");
-                }
-
-                if (s.name == "Forest"
-                    || s.name == "Safari"
-                    || s.name == "Pet"
-                    || s.name == "Aquarium"
-                    || s.name == "Village"
-                    || s.name == "Pond"
-                    || s.name == "Birds"
-                    || s.name == "Jungle"
-                    || s.name == "Arctic"
-                    || s.name == "Arc")
-                {
-                    s.source.volume = s.volume = PlayerPrefs.GetFloat("EnvironmentVolume");
-                }
-            }
+            AudioManager.AudioManager.Instance.UpdateVolume(soundVolumeSlider, musicVolumeSlider, environmentVolumeSlider);
         }
 
         private void SettingsButtonFunc()

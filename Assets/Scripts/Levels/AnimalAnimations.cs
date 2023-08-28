@@ -5,7 +5,6 @@ namespace Animation
 {
     public class AnimalAnimations : MonoBehaviour
     {
-        //TODO: пересмотреть имена животных
         private Animator animator;
 
         public void Initialize()
@@ -13,14 +12,14 @@ namespace Animation
             animator = gameObject.GetComponent<Animator>();
         }
         
-        public void StartAnimation(float duration) //Добавить иф елсе с именем животного
+        public void StartAnimation(float duration) 
         {
             StartCoroutine(StartAnimationCO(duration));
         }
 
         private IEnumerator StartAnimationCO(float duration)
         {
-            //TODO: добавить звуки
+            AudioManager.AudioManager.Instance.Play(this.gameObject.name);
             animator.SetBool("Anim", true);
 
             yield return new WaitForSeconds(duration);

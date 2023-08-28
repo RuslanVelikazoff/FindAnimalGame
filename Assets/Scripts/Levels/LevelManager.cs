@@ -4,10 +4,14 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
+    [Header("Уровни")]
     [SerializeField] private World world;
 
+    [Header("Индексы")]
     private int levelIndex;
     private int exerciseIndex;
+
+    [Header("Счётчик")]
     private int nextLevelCount = 0;
     
     [Header("Дополнительные объекты")] 
@@ -20,6 +24,7 @@ public class LevelManager : MonoBehaviour
         animalAnimations = AnimalAnimations;
 
         levelIndex = SceneManager.GetActiveScene().buildIndex - 1;
+        AudioManager.AudioManager.Instance.Play(world.levels[levelIndex].levelName);
 
         SetExerciseText();
         
@@ -37,8 +42,13 @@ public class LevelManager : MonoBehaviour
         }
         else
         {
-            levelUiManager.SetExerciseText(world.levels[levelIndex].animalName[exerciseIndex]);
+            levelUiManager.SetExerciseText(world.levels[levelIndex].animalName[levelIndex]);
         }
+    }
+
+    public void StopSound()
+    {
+        AudioManager.AudioManager.Instance.Pause(world.levels[levelIndex].levelName);
     }
 
     public void CheckAnimal(int exercise)
@@ -51,11 +61,14 @@ public class LevelManager : MonoBehaviour
         if (exercise == exerciseIndex)
         {
             Debug.Log("Good");
+            AudioManager.AudioManager.Instance.Play("Win");
+            AudioManager.AudioManager.Instance.MinusEnvironmentVolume(world.levels[levelIndex].levelName);
             levelUiManager.ShowUI(false, nextLevelCount, levelIndex);
             animalAnimations[exercise].StartAnimation(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
 
             yield return new WaitForSeconds(world.levels[levelIndex].durationsAnimations[exerciseIndex]);
-            
+
+            AudioManager.AudioManager.Instance.PlusEnvironmentVolume(world.levels[levelIndex].levelName);
             SetExerciseText();
             nextLevelCount++;
             levelUiManager.ShowUI(true, nextLevelCount, levelIndex);
@@ -63,6 +76,7 @@ public class LevelManager : MonoBehaviour
         else
         {
             Debug.Log("Bad");
+            AudioManager.AudioManager.Instance.Play("Lose");
         }
     }
 }

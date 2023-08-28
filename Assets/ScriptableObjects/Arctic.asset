@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f8b906c3382a20498a1e0972b7c3996, type: 3}
   m_Name: Arctic
   m_EditorClassIdentifier: 
+  levelName: Arctic
   animalName:
   - "\u043F\u0438\u043D\u0433\u0432\u0438\u043D"
   - "\u043C\u043E\u0440\u0441\u043A\u043E\u0439 \u043A\u043E\u0442\u0438\u043A"

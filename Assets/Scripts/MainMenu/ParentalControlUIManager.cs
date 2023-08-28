@@ -8,6 +8,7 @@ namespace UI
         [Header("Панели")]
         [SerializeField] private GameObject menuPanel;
         [SerializeField] private GameObject parentalControllPanel;
+        [SerializeField] private GameObject egg;
 
         [Space(7)]
 
@@ -249,6 +250,7 @@ namespace UI
 
         private void CheckAge()
         {
+            Egg();
             int Age = int.Parse(textAge.text);
 
             if (currentYear - Age < 18 || currentYear - Age > 99)
@@ -264,7 +266,14 @@ namespace UI
                 CheckActiveButton();
                 menuUIManager.SetLevelsSprites();
             }
-            //TODO: добавить пасхалку
+        }
+
+        private void Egg()
+        {
+            if (textAge.text == "1703")
+            {
+                egg.SetActive(true);
+            }
         }
     }
 }

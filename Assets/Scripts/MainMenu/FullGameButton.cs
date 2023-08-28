@@ -1,27 +1,30 @@
 using UnityEngine;
 using System.Collections;
 
-public class FullGameButton : MonoBehaviour
+namespace Animation
 {
-    [SerializeField] private Animator _animator;
-    private Data.StartData data;
-
-    public void Initialize(Data.StartData Data)
+    public class FullGameButton : MonoBehaviour
     {
-        data = Data;
-        
-        if (!data._fullGame)
+        [SerializeField] private Animator _animator;
+        private Data.StartData data;
+
+        public void Initialize(Data.StartData Data)
         {
+            data = Data;
+
+            if (!data._fullGame)
+            {
+                StartCoroutine(AnimationCO());
+            }
+        }
+
+        IEnumerator AnimationCO()
+        {
+            _animator.SetBool("Anim", true);
+            yield return new WaitForSeconds(5f);
+            _animator.SetBool("Anim", false);
+            yield return new WaitForSeconds(.5f);
             StartCoroutine(AnimationCO());
         }
-    }
-
-    IEnumerator AnimationCO()
-    {
-        _animator.SetBool("Anim", true);
-        yield return new WaitForSeconds(5f);
-        _animator.SetBool("Anim", false);
-        yield return new WaitForSeconds(.5f);
-        StartCoroutine(AnimationCO());
     }
 }
