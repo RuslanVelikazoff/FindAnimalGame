@@ -24,11 +24,13 @@ namespace UI
 
         [Header("Дополнительные компоненты")]
         private Data.StartData data;
-        private UI.MenuUIManager menuUIManager;
+        private MenuUIManager menuUIManager;
+        private Animation.UIAnimation UIAnimation;
 
-        public void Initialize(Data.StartData Data, UI.MenuUIManager MenuUIManager)
+        public void Initialize(Data.StartData Data, MenuUIManager MenuUIManager, Animation.UIAnimation uIAnimation)
         {
             data = Data;
+            UIAnimation = uIAnimation;
             menuUIManager = MenuUIManager;
 
             CheckActiveButton();
@@ -59,10 +61,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[0]);
                         textAge.text += "0";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[0]);
                         textAge.text += "";
                     }
                 });
@@ -74,10 +78,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[1]);
                         textAge.text += "1";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[1]);
                         textAge.text += "";
                     }
                 });
@@ -89,10 +95,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[2]);
                         textAge.text += "2";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[2]);
                         textAge.text += "";
                     }
                 });
@@ -104,10 +112,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[3]);
                         textAge.text += "3";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[3]);
                         textAge.text += "";
                     }
                 });
@@ -119,10 +129,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[4]);
                         textAge.text += "4";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[4]);
                         textAge.text += "";
                     }
                 });
@@ -134,10 +146,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[5]);
                         textAge.text += "5";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[5]);
                         textAge.text += "";
                     }
                 });
@@ -149,10 +163,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[6]);
                         textAge.text += "6";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[6]);
                         textAge.text += "";
                     }
                 });
@@ -164,10 +180,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[7]);
                         textAge.text += "7";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[7]);
                         textAge.text += "";
                     }
                 });
@@ -179,10 +197,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[8]);
                         textAge.text += "8";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[8]);
                         textAge.text += "";
                     }
                 });
@@ -194,10 +214,12 @@ namespace UI
                 {
                     if (textAge.text.Length < 4)
                     {
+                        UIAnimation.ClickAnimation(numberButtons[9]);
                         textAge.text += "9";
                     }
                     else
                     {
+                        UIAnimation.ClickAnimation(numberButtons[9]);
                         textAge.text += "";
                     }
                 });
@@ -211,8 +233,7 @@ namespace UI
                 openParrentalControllButton.onClick.RemoveAllListeners();
                 openParrentalControllButton.onClick.AddListener(() =>
                 {
-                    menuPanel.SetActive(false);
-                    parentalControllPanel.SetActive(true);
+                    UIAnimation.OpenPanel(menuPanel, parentalControllPanel);
                 });
             }
 
@@ -221,8 +242,7 @@ namespace UI
                 closeButton.onClick.RemoveAllListeners();
                 closeButton.onClick.AddListener(() =>
                 {
-                    menuPanel.SetActive(true);
-                    parentalControllPanel.SetActive(false);
+                    UIAnimation.OpenPanel(parentalControllPanel, menuPanel);
                 });
             }
 
@@ -231,8 +251,7 @@ namespace UI
                 clearButton.onClick.RemoveAllListeners();
                 clearButton.onClick.AddListener(() =>
                 {
-                    Debug.Log("Buton is okay");
-                    textAge.text = "";
+                    StartCoroutine(UIAnimation.ClearButtonAnimationCO(clearButton, textAge));
                 });
             }
 
@@ -261,8 +280,7 @@ namespace UI
             {
                 Debug.Log("Good");
                 data._fullGame = true;
-                parentalControllPanel.SetActive(false);
-                menuPanel.SetActive(true);
+                UIAnimation.OpenPanel(parentalControllPanel, menuPanel);
                 CheckActiveButton();
                 menuUIManager.SetLevelsSprites();
             }

@@ -6,6 +6,10 @@ namespace UI
 {
     public class MenuUIManager : MonoBehaviour
     {
+        [Header("Панели")]
+        [SerializeField] private GameObject mainPanel;
+        [SerializeField] private GameObject parentalControlPanel;
+
         [Header("Главное меню")]
         [SerializeField] private Button[] levelsButtons;
         [SerializeField] private Image[] levelsImages;
@@ -17,10 +21,12 @@ namespace UI
 
         [Header("Дополнительные компоненты")]
         private Data.StartData data;
+        private Animation.UIAnimation UIAnimation;
 
-        public void Initialize(Data.StartData Data)
+        public void Initialize(Data.StartData Data, Animation.UIAnimation uIAnimation)
         {
             data = Data;
+            UIAnimation = uIAnimation;
 
             SetLevelsSprites();
             ButtonFunc();
@@ -109,7 +115,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -125,7 +131,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -141,7 +147,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -157,7 +163,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -173,7 +179,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -189,7 +195,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }
@@ -205,7 +211,7 @@ namespace UI
                     }
                     else
                     {
-                        Debug.Log("Buy full game!");
+                        UIAnimation.OpenPanel(mainPanel, parentalControlPanel);
                     }
                 });
             }

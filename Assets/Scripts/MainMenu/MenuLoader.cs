@@ -8,7 +8,11 @@ namespace Loader
         [SerializeField] private UI.MenuUIManager menuUIManager;
         [SerializeField] private UI.SettingsUIManager settingsUIManager;
         [SerializeField] private UI.ParentalControlUIManager parentalControlUIManager;
+
+        [Space(7)]
+        [Header("Animation")]
         [SerializeField] private Animation.FullGameButton fullGameButton;
+        private Animation.UIAnimation UIAnimation;
 
         [Space(7)]
 
@@ -18,10 +22,11 @@ namespace Loader
         void Start()
         {
             data.Initialize();
+            UIAnimation = new Animation.UIAnimation();
             AudioManager.AudioManager.Instance.Play("Theme");
-            settingsUIManager.Initialize();
-            menuUIManager.Initialize(data);
-            parentalControlUIManager.Initialize(data, menuUIManager);
+            settingsUIManager.Initialize(UIAnimation);
+            menuUIManager.Initialize(data, UIAnimation);
+            parentalControlUIManager.Initialize(data, menuUIManager, UIAnimation);
             fullGameButton.Initialize(data);
         }
     }

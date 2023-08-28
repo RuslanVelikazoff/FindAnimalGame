@@ -15,9 +15,14 @@ namespace UI
         [SerializeField] private Slider musicVolumeSlider;
         [SerializeField] private Slider soundVolumeSlider;
         [SerializeField] private Slider environmentVolumeSlider;
+
+        [Header("Дополнительные компоненты")]
+        Animation.UIAnimation UIAnimation;
         
-        public void Initialize()
+        public void Initialize(Animation.UIAnimation uiAimation)
         {
+            UIAnimation = uiAimation;
+
             AudioManager.AudioManager.Instance.InitializeVolume(soundVolumeSlider, musicVolumeSlider, environmentVolumeSlider);
 
             SettingsButtonFunc();
@@ -37,8 +42,9 @@ namespace UI
                 openSettingsButton.onClick.RemoveAllListeners();
                 openSettingsButton.onClick.AddListener(() =>
                 {
-                    menuPanel.SetActive(false);
-                    settingsPanel.SetActive(true);
+                    UIAnimation.OpenPanel(menuPanel, settingsPanel);
+                    //menuPanel.SetActive(false);
+                    //settingsPanel.SetActive(true);
                 });
             }
 
@@ -47,8 +53,9 @@ namespace UI
                 closeSettingsButton.onClick.RemoveAllListeners();
                 closeSettingsButton.onClick.AddListener(() =>
                 {
-                    menuPanel.SetActive(true);
-                    settingsPanel.SetActive(false);
+                    UIAnimation.OpenPanel(settingsPanel, menuPanel);
+                    //menuPanel.SetActive(true);
+                    //settingsPanel.SetActive(false);
                 });
             }
         }
