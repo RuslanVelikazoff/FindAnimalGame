@@ -44,6 +44,8 @@ namespace AudioManager
                     s.source.volume = s.volume = PlayerPrefs.GetFloat(VolumeNames.MusicVolume);
                 }
             }
+
+            Play("Theme");
         }
 
         public void Play(string name)
@@ -119,7 +121,7 @@ namespace AudioManager
                || s.name == "Aquarium"
                || s.name == "Village"
                || s.name == "Pond"
-               || s.name == "Birds"
+               || s.name == "Bird"
                || s.name == "Jungle"
                || s.name == "Arctic"
                || s.name == "Arc")

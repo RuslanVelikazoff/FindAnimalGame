@@ -42,7 +42,7 @@ public class LevelManager : MonoBehaviour
         }
         else
         {
-            levelUiManager.SetExerciseText(world.levels[levelIndex].animalName[levelIndex]);
+            levelUiManager.SetExerciseText(world.levels[levelIndex].animalName[exerciseIndex]);
         }
     }
 

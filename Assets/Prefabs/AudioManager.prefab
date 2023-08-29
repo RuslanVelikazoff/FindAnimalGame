@@ -46,247 +46,247 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Bear
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3100ff54e660443c5b285200bccbbcd2, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Wolf
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: a8ad77a60415a4372b4e81aadea26749, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Rabbit
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: ece78e99ce4464cef929b1811a772b80, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Giraffe
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1176b615f1f954ec6894e53651187d2d, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Zebra
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 5e893bf92701f472789963d271595ead, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Elephant
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7ddd396e347824d8c9f3c3d96b68f908, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Hamster
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: da0de08e065bc4548a944e4eb84fbee4, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Cat
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 56d22e9ef181541cc9cbb43d0c8c7112, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Dog
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 38afabf161e6449abaf0a951354f69c5, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Goldfish
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: fdb9115eae57744e9b40df7e6ce37055, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Starfish
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 25578cea07db84d63b6074b20a1d5f72, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Seahorse
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: f43be4b6402da4a4cb1132969ecca939, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Cow
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7d719b94809844161892964ad85c6f70, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Chicken
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 5defb4d9408e548bd9864d1e27a5be97, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Goat
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3e922eb40334b4a8f945f10dffd6b191, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Mosquito
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 565a07fed240d4826977afd992e00e22, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Frog
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3d54a978655634095b4bac25c7bbf606, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Duck
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 8954e488a358742058be53cfe8266eea, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Woodpecker
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1ffb336a4eca04e0d88994af4cdefcd6, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Pigeon
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: f52b6920df76c489b95c2f6ed61f0758, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Crow
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: ff6bdbdb04bab4059ad7cc07eb3575ba, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Monkey
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 537d542e7356d4e60aae8f5cb9743aaa, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Koala
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3ddee1f7e71c54e3d92fe93be54b4a4d, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Parrot
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 235842aefd7b64b68957ec2f417e79b2, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Pinguin
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: b6d84d7f672c74d1e89e5971fb40feb2, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Navyseal
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: f41c6d047ad044b809ddefc6aae956de, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: WhiteBear
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 95639617a4a184755b8b95edc715b5ec, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Dinosaur
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7e61e4cedb0344fdfb9a3482c13b98fb, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Mammoth
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: cbd04e47aaa8f4f20809f8d940d52c8a, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Pterodactyl
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: d35845267157945fc88b18238090cb64, type: 3}
     loop: 0
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Forest
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: cd3cbf55bc3704f6281733456e9b4dcf, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Safari
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: d2a86e68792d0427297b901f73121e74, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Home
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 0e46033fac5b54efb94fb57a6662c0d0, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Aquarium
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: c7dfd1977748840fcab33d92bed391ac, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Village
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: fb44331508e014982a1e84954f83ce2d, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Pond
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 735499fe56e84414dac0c04275ee522d, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
-  - name: Birds
-    clip: {fileID: 0}
+  - name: Bird
+    clip: {fileID: 8300000, guid: 80bd96f7455084038b78864db409afc6, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Jungle
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7870815a5c5674609bad3ef31a36f364, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Arctic
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: fd9a8fcc487f54de5ac996a2450fab0d, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Arc
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: cacc3d02875a34248a954526a4623f66, type: 3}
     loop: 1
     volume: 0
     pitch: 0
     source: {fileID: 0}
   - name: Theme
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 89560359a48e346be99d471031a1a90c, type: 3}
     loop: 1
     volume: 0
     pitch: 0

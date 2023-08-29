@@ -23,7 +23,6 @@ namespace Loader
         {
             data.Initialize();
             UIAnimation = new Animation.UIAnimation();
-            AudioManager.AudioManager.Instance.Play("Theme");
             settingsUIManager.Initialize(UIAnimation);
             menuUIManager.Initialize(data, UIAnimation);
             parentalControlUIManager.Initialize(data, menuUIManager, UIAnimation);
