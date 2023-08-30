@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 namespace Loader
@@ -6,6 +7,8 @@ namespace Loader
     {
         [Header("UI")]
         [SerializeField] private UI.LevelUIManager levelUiManager;
+        [SerializeField] private Loader.LoadScreen loadScreen;
+        private Animation.UIAnimation UIAnimation;
 
         [Space(7)]
 
@@ -16,7 +19,7 @@ namespace Loader
         [Header("Animations")]
         [SerializeField] private Animation.AnimalAnimations[] animalAnimations;
 
-        private void Start()
+        private IEnumerator Start()
         {
             for (int i = 0; i < animalAnimations.Length; i++)
             {
@@ -25,6 +28,13 @@ namespace Loader
 
             levelUiManager.Initialize(levelManager);
             levelManager.Initialize(levelUiManager, animalAnimations);
+
+            UIAnimation = new Animation.UIAnimation();
+            loadScreen.Initialize(UIAnimation);
+
+            yield return new WaitForSeconds(1.5f);
+
+            loadScreen.CloseLoadPanel();
         }
     }
 }

@@ -15,6 +15,9 @@ namespace Animation
 
         private const float animationClearDuration = 1.3f;
 
+        private Vector3 positionLoadScreen = new Vector3(0, 18.31f, 90f);
+        private const float animationLoadDuration = 1.5f;
+
         public void OpenPanel(GameObject currentPanel, GameObject newPanel)
         {
             Sequence sequence = DOTween.Sequence();
